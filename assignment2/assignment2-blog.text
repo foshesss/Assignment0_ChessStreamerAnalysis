@@ -1,0 +1,37 @@
+Write a 500-word Medium post on analyzing the structure of a Web-based network. 
+Relevant networks or graphs include the Web graph (e.g., edges between domains 
+or edges between articles in a single web site) or online social networks. 
+In your analysis, define what it means for a node to be "important" and describe 
+how you might find such a node in the graph.
+
+
+Identify a non-obvious insight you want to extract from your data, describing what 
+decision(s) this insight might inform.
+
+Describe the source of your network data. Where did it come from, and how did you 
+collect it?
+
+Define what nodes and edges in your network represent and how you built 
+this graph from your data.
+
+Define "importance" in your graph and identify a set of at least three important nodes.
+
+Describe any software you used to facilitate your network analysis 
+(e.g., NetworkX, NodeXL, or similar).
+
+Describe how you cleaned up this data, common bugs you think others might 
+encounter, and how you fixed them, etc.
+
+Include figures or tables summarizing your findings.
+
+Conclude with a discussion of the limitations of your analysis. 
+What’s missing? How might it be biased?
+
+Include a link to your GitHub repository where you have code for this analysis.
+
+
+https://spclient.wg.spotify.com/user-profile-view/v3/profile/{username}/followers?market=from_token
+
+{
+    profiles:
+}

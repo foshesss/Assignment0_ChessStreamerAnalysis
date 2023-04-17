@@ -1,0 +1,33 @@
+Identify a non-obvious insight you want to extract from your data, describing what decision(s) 
+this insight might inform.
+- Finding chess streamer ratings that are recognized by chess.com 
+- This type of knowledge might be helpful to somebody who wants to be an official 
+partnered streamer for chess.com
+
+Perform some exploratory data analysis that helps inform the decision you posed in your 
+introduction. 
+- It seems that players should shoot to be ~2000 or greater than rating. However, there are chess streamers
+that do not fall into this range. Some were as low as 150 rating.
+
+Describe the data that could answer this question, where it lives, and why it's relevant.
+- Chess.com has an API of chess streamers and other endpoints to extract player rating across
+all types of chess gamemodes.
+
+Explain how you collected the data, e.g., libraries like requests, BeautifulSoup, tweepy, 
+praw, etc. or from a data archive. 
+- 'requests' library to touch chess.com endpoints.
+- 'matplotlib.pyplot' for plotting data.
+- 'numpy' for calculating useful statistics about player ratings.
+
+Conclude with a discussion of the limitations of your analysis. 
+After glancing through the streamers, it seems that some were alt accounts of pro chess streamers.
+This could skew the data towards the average being a higher rating.
+
+What’s missing? How might it be biased?
+There are other factors that may determine chess.com's choice in streamers:
+- Streamer popularity before applying to become an official streamer.
+- How family friendly a streamer is.
+
+Include a link to one of your GitHub repositories that contains the code you 
+have developed for this assignment.
+https://github.com/foshesss/Assignment0_ChessStreamerAnalysis

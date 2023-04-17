@@ -1,2 +1,4 @@
 /ayo.json
 /derp.txt
+*/.env
+*/node_modules
