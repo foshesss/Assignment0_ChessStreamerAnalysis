@@ -30,4 +30,4 @@ There are other factors that may determine chess.com's choice in streamers:
 
 Include a link to one of your GitHub repositories that contains the code you 
 have developed for this assignment.
-https://github.com/foshesss/Assignment0_ChessStreamerAnalysis
+https://github.com/foshesss/INST414_Assignments/tree/master/assignment1
