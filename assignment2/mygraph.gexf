@@ -1,0 +1,1849 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-27">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="lapis_lazuli" label="lapis_lazuli" />
+      <node id="lapis_ore" label="lapis_ore" />
+      <node id="pink_stained_glass" label="pink_stained_glass" />
+      <node id="glass" label="glass" />
+      <node id="pink_dye" label="pink_dye" />
+      <node id="bucket" label="bucket" />
+      <node id="iron_ingot" label="iron_ingot" />
+      <node id="orange_carpet" label="orange_carpet" />
+      <node id="orange_wool" label="orange_wool" />
+      <node id="chain" label="chain" />
+      <node id="iron_nugget" label="iron_nugget" />
+      <node id="stone_sword" label="stone_sword" />
+      <node id="stick" label="stick" />
+      <node id="cobblestone" label="cobblestone" />
+      <node id="blackstone" label="blackstone" />
+      <node id="red_sandstone_slab" label="red_sandstone_slab" />
+      <node id="red_sandstone" label="red_sandstone" />
+      <node id="chiseled_red_sandstone" label="chiseled_red_sandstone" />
+      <node id="magenta_carpet" label="magenta_carpet" />
+      <node id="white_carpet" label="white_carpet" />
+      <node id="magenta_dye" label="magenta_dye" />
+      <node id="smooth_sandstone" label="smooth_sandstone" />
+      <node id="sandstone" label="sandstone" />
+      <node id="oak_wood" label="oak_wood" />
+      <node id="oak_log" label="oak_log" />
+      <node id="stripped_warped_hyphae" label="stripped_warped_hyphae" />
+      <node id="stripped_warped_stem" label="stripped_warped_stem" />
+      <node id="red_sandstone_stairs" label="red_sandstone_stairs" />
+      <node id="smooth_stone_slab" label="smooth_stone_slab" />
+      <node id="smooth_stone" label="smooth_stone" />
+      <node id="sand" label="sand" />
+      <node id="golden_chestplate" label="golden_chestplate" />
+      <node id="gold_ingot" label="gold_ingot" />
+      <node id="black_terracotta" label="black_terracotta" />
+      <node id="terracotta" label="terracotta" />
+      <node id="black_dye" label="black_dye" />
+      <node id="stone_slab" label="stone_slab" />
+      <node id="stone" label="stone" />
+      <node id="oak_trapdoor" label="oak_trapdoor" />
+      <node id="oak_planks" label="oak_planks" />
+      <node id="birch_boat" label="birch_boat" />
+      <node id="birch_planks" label="birch_planks" />
+      <node id="warped_fence" label="warped_fence" />
+      <node id="warped_planks" label="warped_planks" />
+      <node id="stripped_jungle_wood" label="stripped_jungle_wood" />
+      <node id="stripped_jungle_log" label="stripped_jungle_log" />
+      <node id="light_weighted_pressure_plate" label="light_weighted_pressure_plate" />
+      <node id="furnace_minecart" label="furnace_minecart" />
+      <node id="furnace" label="furnace" />
+      <node id="minecart" label="minecart" />
+      <node id="golden_pickaxe" label="golden_pickaxe" />
+      <node id="polished_diorite_stairs" label="polished_diorite_stairs" />
+      <node id="polished_diorite" label="polished_diorite" />
+      <node id="stone_bricks" label="stone_bricks" />
+      <node id="polished_blackstone_wall" label="polished_blackstone_wall" />
+      <node id="polished_blackstone" label="polished_blackstone" />
+      <node id="cooked_cod" label="cooked_cod" />
+      <node id="cod" label="cod" />
+      <node id="shulker_box" label="shulker_box" />
+      <node id="chest" label="chest" />
+      <node id="shulker_shell" label="shulker_shell" />
+      <node id="beacon" label="beacon" />
+      <node id="nether_star" label="nether_star" />
+      <node id="obsidian" label="obsidian" />
+      <node id="pink_terracotta" label="pink_terracotta" />
+      <node id="glowstone" label="glowstone" />
+      <node id="glowstone_dust" label="glowstone_dust" />
+      <node id="sponge" label="sponge" />
+      <node id="wet_sponge" label="wet_sponge" />
+      <node id="quartz_bricks" label="quartz_bricks" />
+      <node id="quartz_block" label="quartz_block" />
+      <node id="redstone_block" label="redstone_block" />
+      <node id="redstone" label="redstone" />
+      <node id="purpur_slab" label="purpur_slab" />
+      <node id="purpur_block" label="purpur_block" />
+      <node id="spruce_pressure_plate" label="spruce_pressure_plate" />
+      <node id="spruce_planks" label="spruce_planks" />
+      <node id="iron_shovel" label="iron_shovel" />
+      <node id="melon" label="melon" />
+      <node id="melon_slice" label="melon_slice" />
+      <node id="iron_helmet" label="iron_helmet" />
+      <node id="polished_andesite" label="polished_andesite" />
+      <node id="andesite" label="andesite" />
+      <node id="light_gray_banner" label="light_gray_banner" />
+      <node id="light_gray_wool" label="light_gray_wool" />
+      <node id="acacia_fence_gate" label="acacia_fence_gate" />
+      <node id="acacia_planks" label="acacia_planks" />
+      <node id="purpur_stairs" label="purpur_stairs" />
+      <node id="purpur_pillar" label="purpur_pillar" />
+      <node id="red_sand" label="red_sand" />
+      <node id="diamond_sword" label="diamond_sword" />
+      <node id="diamond" label="diamond" />
+      <node id="cooked_chicken" label="cooked_chicken" />
+      <node id="chicken" label="chicken" />
+      <node id="chiseled_quartz_block" label="chiseled_quartz_block" />
+      <node id="acacia_slab" label="acacia_slab" />
+      <node id="light_gray_stained_glass_pane" label="light_gray_stained_glass_pane" />
+      <node id="light_gray_stained_glass" label="light_gray_stained_glass" />
+      <node id="green_dye" label="green_dye" />
+      <node id="cactus" label="cactus" />
+      <node id="iron_pickaxe" label="iron_pickaxe" />
+      <node id="iron_axe" label="iron_axe" />
+      <node id="iron_hoe" label="iron_hoe" />
+      <node id="iron_sword" label="iron_sword" />
+      <node id="iron_chestplate" label="iron_chestplate" />
+      <node id="iron_leggings" label="iron_leggings" />
+      <node id="iron_boots" label="iron_boots" />
+      <node id="iron_horse_armor" label="iron_horse_armor" />
+      <node id="chainmail_helmet" label="chainmail_helmet" />
+      <node id="chainmail_chestplate" label="chainmail_chestplate" />
+      <node id="chainmail_leggings" label="chainmail_leggings" />
+      <node id="chainmail_boots" label="chainmail_boots" />
+      <node id="brown_bed" label="brown_bed" />
+      <node id="brown_wool" label="brown_wool" />
+      <node id="jungle_planks" label="jungle_planks" />
+      <node id="dark_oak_planks" label="dark_oak_planks" />
+      <node id="crimson_planks" label="crimson_planks" />
+      <node id="cooked_beef" label="cooked_beef" />
+      <node id="beef" label="beef" />
+      <node id="warped_pressure_plate" label="warped_pressure_plate" />
+      <node id="green_terracotta" label="green_terracotta" />
+      <node id="golden_shovel" label="golden_shovel" />
+      <node id="dark_prismarine_slab" label="dark_prismarine_slab" />
+      <node id="dark_prismarine" label="dark_prismarine" />
+      <node id="birch_fence_gate" label="birch_fence_gate" />
+      <node id="smooth_red_sandstone_stairs" label="smooth_red_sandstone_stairs" />
+      <node id="smooth_red_sandstone" label="smooth_red_sandstone" />
+      <node id="brewing_stand" label="brewing_stand" />
+      <node id="blaze_rod" label="blaze_rod" />
+      <node id="map" label="map" />
+      <node id="paper" label="paper" />
+      <node id="compass" label="compass" />
+      <node id="glistering_melon_slice" label="glistering_melon_slice" />
+      <node id="gold_nugget" label="gold_nugget" />
+      <node id="cooked_rabbit" label="cooked_rabbit" />
+      <node id="rabbit" label="rabbit" />
+      <node id="quartz" label="quartz" />
+      <node id="iron_block" label="iron_block" />
+      <node id="red_nether_brick_slab" label="red_nether_brick_slab" />
+      <node id="red_nether_bricks" label="red_nether_bricks" />
+      <node id="yellow_carpet" label="yellow_carpet" />
+      <node id="yellow_dye" label="yellow_dye" />
+      <node id="cut_sandstone" label="cut_sandstone" />
+      <node id="magenta_glazed_terracotta" label="magenta_glazed_terracotta" />
+      <node id="magenta_terracotta" label="magenta_terracotta" />
+      <node id="cut_sandstone_slab" label="cut_sandstone_slab" />
+      <node id="ladder" label="ladder" />
+      <node id="jungle_fence_gate" label="jungle_fence_gate" />
+      <node id="red_banner" label="red_banner" />
+      <node id="red_wool" label="red_wool" />
+      <node id="prismarine_wall" label="prismarine_wall" />
+      <node id="prismarine" label="prismarine" />
+      <node id="oak_door" label="oak_door" />
+      <node id="brick" label="brick" />
+      <node id="clay_ball" label="clay_ball" />
+      <node id="oak_sign" label="oak_sign" />
+      <node id="iron_bars" label="iron_bars" />
+      <node id="brick_wall" label="brick_wall" />
+      <node id="bricks" label="bricks" />
+      <node id="purple_carpet" label="purple_carpet" />
+      <node id="purple_wool" label="purple_wool" />
+      <node id="glass_pane" label="glass_pane" />
+      <node id="golden_helmet" label="golden_helmet" />
+      <node id="popped_chorus_fruit" label="popped_chorus_fruit" />
+      <node id="chorus_fruit" label="chorus_fruit" />
+      <node id="black_stained_glass" label="black_stained_glass" />
+      <node id="respawn_anchor" label="respawn_anchor" />
+      <node id="crying_obsidian" label="crying_obsidian" />
+      <node id="leather_horse_armor" label="leather_horse_armor" />
+      <node id="leather" label="leather" />
+      <node id="activator_rail" label="activator_rail" />
+      <node id="redstone_torch" label="redstone_torch" />
+      <node id="cauldron" label="cauldron" />
+      <node id="polished_blackstone_bricks" label="polished_blackstone_bricks" />
+      <node id="mossy_stone_brick_slab" label="mossy_stone_brick_slab" />
+      <node id="mossy_stone_bricks" label="mossy_stone_bricks" />
+      <node id="polished_blackstone_brick_stairs" label="polished_blackstone_brick_stairs" />
+      <node id="redstone_ore" label="redstone_ore" />
+      <node id="quartz_stairs" label="quartz_stairs" />
+      <node id="gray_stained_glass_pane" label="gray_stained_glass_pane" />
+      <node id="gray_dye" label="gray_dye" />
+      <node id="granite_wall" label="granite_wall" />
+      <node id="granite" label="granite" />
+      <node id="dark_oak_slab" label="dark_oak_slab" />
+      <node id="orange_bed" label="orange_bed" />
+      <node id="cyan_carpet" label="cyan_carpet" />
+      <node id="cyan_wool" label="cyan_wool" />
+      <node id="spruce_boat" label="spruce_boat" />
+      <node id="polished_granite_slab" label="polished_granite_slab" />
+      <node id="polished_granite" label="polished_granite" />
+      <node id="clay" label="clay" />
+      <node id="yellow_banner" label="yellow_banner" />
+      <node id="yellow_wool" label="yellow_wool" />
+      <node id="chiseled_polished_blackstone" label="chiseled_polished_blackstone" />
+      <node id="cyan_terracotta" label="cyan_terracotta" />
+      <node id="cyan_dye" label="cyan_dye" />
+      <node id="chest_minecart" label="chest_minecart" />
+      <node id="diorite_stairs" label="diorite_stairs" />
+      <node id="diorite" label="diorite" />
+      <node id="polished_blackstone_brick_slab" label="polished_blackstone_brick_slab" />
+      <node id="prismarine_stairs" label="prismarine_stairs" />
+      <node id="lime_carpet" label="lime_carpet" />
+      <node id="lime_dye" label="lime_dye" />
+      <node id="sandstone_stairs" label="sandstone_stairs" />
+      <node id="chiseled_sandstone" label="chiseled_sandstone" />
+      <node id="mossy_cobblestone_wall" label="mossy_cobblestone_wall" />
+      <node id="mossy_cobblestone" label="mossy_cobblestone" />
+      <node id="brick_stairs" label="brick_stairs" />
+      <node id="lapis_block" label="lapis_block" />
+      <node id="gray_glazed_terracotta" label="gray_glazed_terracotta" />
+      <node id="gray_terracotta" label="gray_terracotta" />
+      <node id="sandstone_slab" label="sandstone_slab" />
+      <node id="rabbit_hide" label="rabbit_hide" />
+      <node id="wooden_shovel" label="wooden_shovel" />
+      <node id="cobblestone_stairs" label="cobblestone_stairs" />
+      <node id="light_gray_carpet" label="light_gray_carpet" />
+      <node id="light_gray_dye" label="light_gray_dye" />
+      <node id="light_blue_stained_glass_pane" label="light_blue_stained_glass_pane" />
+      <node id="light_blue_stained_glass" label="light_blue_stained_glass" />
+      <node id="blackstone_slab" label="blackstone_slab" />
+      <node id="blackstone_wall" label="blackstone_wall" />
+      <node id="nether_wart" label="nether_wart" />
+      <node id="nether_brick" label="nether_brick" />
+      <node id="cooked_porkchop" label="cooked_porkchop" />
+      <node id="porkchop" label="porkchop" />
+      <node id="stripped_dark_oak_wood" label="stripped_dark_oak_wood" />
+      <node id="stripped_dark_oak_log" label="stripped_dark_oak_log" />
+      <node id="comparator" label="comparator" />
+      <node id="iron_ore" label="iron_ore" />
+      <node id="diamond_helmet" label="diamond_helmet" />
+      <node id="light_blue_banner" label="light_blue_banner" />
+      <node id="light_blue_wool" label="light_blue_wool" />
+      <node id="soul_lantern" label="soul_lantern" />
+      <node id="soul_torch" label="soul_torch" />
+      <node id="end_crystal" label="end_crystal" />
+      <node id="ghast_tear" label="ghast_tear" />
+      <node id="ender_eye" label="ender_eye" />
+      <node id="jungle_slab" label="jungle_slab" />
+      <node id="polished_blackstone_slab" label="polished_blackstone_slab" />
+      <node id="dried_kelp" label="dried_kelp" />
+      <node id="kelp" label="kelp" />
+      <node id="polished_diorite_slab" label="polished_diorite_slab" />
+      <node id="green_glazed_terracotta" label="green_glazed_terracotta" />
+      <node id="black_stained_glass_pane" label="black_stained_glass_pane" />
+      <node id="blue_terracotta" label="blue_terracotta" />
+      <node id="blue_dye" label="blue_dye" />
+      <node id="red_stained_glass_pane" label="red_stained_glass_pane" />
+      <node id="red_dye" label="red_dye" />
+      <node id="crimson_fence_gate" label="crimson_fence_gate" />
+      <node id="magenta_bed" label="magenta_bed" />
+      <node id="magenta_wool" label="magenta_wool" />
+      <node id="yellow_bed" label="yellow_bed" />
+      <node id="lime_stained_glass" label="lime_stained_glass" />
+      <node id="smooth_sandstone_slab" label="smooth_sandstone_slab" />
+      <node id="bamboo" label="bamboo" />
+      <node id="spectral_arrow" label="spectral_arrow" />
+      <node id="arrow" label="arrow" />
+      <node id="smooth_red_sandstone_slab" label="smooth_red_sandstone_slab" />
+      <node id="white_terracotta" label="white_terracotta" />
+      <node id="white_dye" label="white_dye" />
+      <node id="snow_block" label="snow_block" />
+      <node id="snowball" label="snowball" />
+      <node id="end_stone_brick_slab" label="end_stone_brick_slab" />
+      <node id="end_stone" label="end_stone" />
+      <node id="yellow_stained_glass_pane" label="yellow_stained_glass_pane" />
+      <node id="yellow_stained_glass" label="yellow_stained_glass" />
+      <node id="torch" label="torch" />
+      <node id="coal" label="coal" />
+      <node id="charcoal" label="charcoal" />
+      <node id="logs_that_burn" label="logs_that_burn" />
+      <node id="diamond_block" label="diamond_block" />
+      <node id="stone_brick_stairs" label="stone_brick_stairs" />
+      <node id="cyan_stained_glass_pane" label="cyan_stained_glass_pane" />
+      <node id="fletching_table" label="fletching_table" />
+      <node id="flint" label="flint" />
+      <node id="acacia_wood" label="acacia_wood" />
+      <node id="acacia_log" label="acacia_log" />
+      <node id="warped_sign" label="warped_sign" />
+      <node id="diamond_shovel" label="diamond_shovel" />
+      <node id="golden_axe" label="golden_axe" />
+      <node id="golden_hoe" label="golden_hoe" />
+      <node id="golden_sword" label="golden_sword" />
+      <node id="golden_leggings" label="golden_leggings" />
+      <node id="golden_boots" label="golden_boots" />
+      <node id="golden_horse_armor" label="golden_horse_armor" />
+      <node id="white_wool" label="white_wool" />
+      <node id="stripped_acacia_wood" label="stripped_acacia_wood" />
+      <node id="stripped_acacia_log" label="stripped_acacia_log" />
+      <node id="polished_granite_stairs" label="polished_granite_stairs" />
+      <node id="sea_pickle" label="sea_pickle" />
+      <node id="smooth_sandstone_stairs" label="smooth_sandstone_stairs" />
+      <node id="cooked_mutton" label="cooked_mutton" />
+      <node id="mutton" label="mutton" />
+      <node id="gray_stained_glass" label="gray_stained_glass" />
+      <node id="nether_brick_stairs" label="nether_brick_stairs" />
+      <node id="nether_bricks" label="nether_bricks" />
+      <node id="stripped_oak_wood" label="stripped_oak_wood" />
+      <node id="stripped_oak_log" label="stripped_oak_log" />
+      <node id="brown_carpet" label="brown_carpet" />
+      <node id="brown_dye" label="brown_dye" />
+      <node id="lime_wool" label="lime_wool" />
+      <node id="cooked_salmon" label="cooked_salmon" />
+      <node id="salmon" label="salmon" />
+      <node id="granite_stairs" label="granite_stairs" />
+      <node id="cobblestone_wall" label="cobblestone_wall" />
+      <node id="crossbow" label="crossbow" />
+      <node id="string" label="string" />
+      <node id="tripwire_hook" label="tripwire_hook" />
+      <node id="dark_oak_wood" label="dark_oak_wood" />
+      <node id="dark_oak_log" label="dark_oak_log" />
+      <node id="netherite_scrap" label="netherite_scrap" />
+      <node id="ancient_debris" label="ancient_debris" />
+      <node id="polished_blackstone_stairs" label="polished_blackstone_stairs" />
+      <node id="warped_fence_gate" label="warped_fence_gate" />
+      <node id="crimson_sign" label="crimson_sign" />
+      <node id="blue_ice" label="blue_ice" />
+      <node id="packed_ice" label="packed_ice" />
+      <node id="acacia_door" label="acacia_door" />
+      <node id="purple_dye" label="purple_dye" />
+      <node id="red_nether_brick_stairs" label="red_nether_brick_stairs" />
+      <node id="fishing_rod" label="fishing_rod" />
+      <node id="stone_pickaxe" label="stone_pickaxe" />
+      <node id="dark_prismarine_stairs" label="dark_prismarine_stairs" />
+      <node id="hopper_minecart" label="hopper_minecart" />
+      <node id="hopper" label="hopper" />
+      <node id="warped_slab" label="warped_slab" />
+      <node id="blue_stained_glass" label="blue_stained_glass" />
+      <node id="brick_slab" label="brick_slab" />
+      <node id="purple_banner" label="purple_banner" />
+      <node id="scaffolding" label="scaffolding" />
+      <node id="nether_wart_block" label="nether_wart_block" />
+      <node id="green_carpet" label="green_carpet" />
+      <node id="piston" label="piston" />
+      <node id="stone_axe" label="stone_axe" />
+      <node id="mossy_cobblestone_slab" label="mossy_cobblestone_slab" />
+      <node id="lime_glazed_terracotta" label="lime_glazed_terracotta" />
+      <node id="lime_terracotta" label="lime_terracotta" />
+      <node id="clock" label="clock" />
+      <node id="polished_blackstone_pressure_plate" label="polished_blackstone_pressure_plate" />
+      <node id="stone_hoe" label="stone_hoe" />
+      <node id="red_stained_glass" label="red_stained_glass" />
+      <node id="prismarine_brick_slab" label="prismarine_brick_slab" />
+      <node id="prismarine_bricks" label="prismarine_bricks" />
+      <node id="diamond_ore" label="diamond_ore" />
+      <node id="polished_andesite_slab" label="polished_andesite_slab" />
+      <node id="pink_stained_glass_pane" label="pink_stained_glass_pane" />
+      <node id="baked_potato" label="baked_potato" />
+      <node id="potato" label="potato" />
+      <node id="smithing_table" label="smithing_table" />
+      <node id="light_gray_terracotta" label="light_gray_terracotta" />
+      <node id="end_stone_bricks" label="end_stone_bricks" />
+      <node id="red_carpet" label="red_carpet" />
+      <node id="cyan_glazed_terracotta" label="cyan_glazed_terracotta" />
+      <node id="acacia_pressure_plate" label="acacia_pressure_plate" />
+      <node id="andesite_wall" label="andesite_wall" />
+      <node id="pink_banner" label="pink_banner" />
+      <node id="pink_wool" label="pink_wool" />
+      <node id="cobblestone_slab" label="cobblestone_slab" />
+      <node id="diamond_leggings" label="diamond_leggings" />
+      <node id="stone_brick_wall" label="stone_brick_wall" />
+      <node id="dark_oak_door" label="dark_oak_door" />
+      <node id="spruce_slab" label="spruce_slab" />
+      <node id="oak_slab" label="oak_slab" />
+      <node id="dropper" label="dropper" />
+      <node id="chiseled_stone_bricks" label="chiseled_stone_bricks" />
+      <node id="jungle_stairs" label="jungle_stairs" />
+      <node id="spruce_fence" label="spruce_fence" />
+      <node id="nether_brick_slab" label="nether_brick_slab" />
+      <node id="magenta_stained_glass_pane" label="magenta_stained_glass_pane" />
+      <node id="warped_stairs" label="warped_stairs" />
+      <node id="composter" label="composter" />
+      <node id="birch_slab" label="birch_slab" />
+      <node id="crimson_slab" label="crimson_slab" />
+      <node id="mossy_cobblestone_stairs" label="mossy_cobblestone_stairs" />
+      <node id="brown_stained_glass_pane" label="brown_stained_glass_pane" />
+      <node id="blue_stained_glass_pane" label="blue_stained_glass_pane" />
+      <node id="stone_stairs" label="stone_stairs" />
+      <node id="turtle_helmet" label="turtle_helmet" />
+      <node id="scute" label="scute" />
+      <node id="oak_pressure_plate" label="oak_pressure_plate" />
+      <node id="dark_oak_boat" label="dark_oak_boat" />
+      <node id="prismarine_shard" label="prismarine_shard" />
+      <node id="stripped_crimson_hyphae" label="stripped_crimson_hyphae" />
+      <node id="stripped_crimson_stem" label="stripped_crimson_stem" />
+      <node id="diamond_chestplate" label="diamond_chestplate" />
+      <node id="crafting_table" label="crafting_table" />
+      <node id="andesite_stairs" label="andesite_stairs" />
+      <node id="smooth_quartz_stairs" label="smooth_quartz_stairs" />
+      <node id="smooth_quartz" label="smooth_quartz" />
+      <node id="granite_slab" label="granite_slab" />
+      <node id="grindstone" label="grindstone" />
+      <node id="purple_stained_glass_pane" label="purple_stained_glass_pane" />
+      <node id="purple_stained_glass" label="purple_stained_glass" />
+      <node id="warped_hyphae" label="warped_hyphae" />
+      <node id="warped_stem" label="warped_stem" />
+      <node id="mossy_stone_brick_stairs" label="mossy_stone_brick_stairs" />
+      <node id="mossy_stone_brick_wall" label="mossy_stone_brick_wall" />
+      <node id="crimson_trapdoor" label="crimson_trapdoor" />
+      <node id="purple_bed" label="purple_bed" />
+      <node id="polished_andesite_stairs" label="polished_andesite_stairs" />
+      <node id="black_carpet" label="black_carpet" />
+      <node id="cracked_stone_bricks" label="cracked_stone_bricks" />
+      <node id="pink_bed" label="pink_bed" />
+      <node id="orange_stained_glass" label="orange_stained_glass" />
+      <node id="orange_dye" label="orange_dye" />
+      <node id="leather_boots" label="leather_boots" />
+      <node id="jack_o_lantern" label="jack_o_lantern" />
+      <node id="carved_pumpkin" label="carved_pumpkin" />
+      <node id="spruce_wood" label="spruce_wood" />
+      <node id="spruce_log" label="spruce_log" />
+      <node id="smoker" label="smoker" />
+      <node id=":logs_that_burn" label=":logs_that_burn" />
+      <node id=":crimson_stems" label=":crimson_stems" />
+      <node id=":warped_stems" label=":warped_stems" />
+      <node id="green_bed" label="green_bed" />
+      <node id="green_wool" label="green_wool" />
+      <node id="repeater" label="repeater" />
+      <node id="quartz_slab" label="quartz_slab" />
+      <node id="crimson_door" label="crimson_door" />
+      <node id="nether_quartz_ore" label="nether_quartz_ore" />
+      <node id="purple_terracotta" label="purple_terracotta" />
+      <node id="emerald" label="emerald" />
+      <node id="emerald_ore" label="emerald_ore" />
+      <node id="prismarine_slab" label="prismarine_slab" />
+      <node id="quartz_pillar" label="quartz_pillar" />
+      <node id="end_stone_brick_stairs" label="end_stone_brick_stairs" />
+      <node id="netherite_block" label="netherite_block" />
+      <node id="netherite_ingot" label="netherite_ingot" />
+      <node id="black_glazed_terracotta" label="black_glazed_terracotta" />
+      <node id="pink_carpet" label="pink_carpet" />
+      <node id="enchanting_table" label="enchanting_table" />
+      <node id="book" label="book" />
+      <node id="loom" label="loom" />
+      <node id="sea_lantern" label="sea_lantern" />
+      <node id="prismarine_crystals" label="prismarine_crystals" />
+      <node id="diorite_slab" label="diorite_slab" />
+      <node id="warped_door" label="warped_door" />
+      <node id="end_rod" label="end_rod" />
+      <node id="blue_carpet" label="blue_carpet" />
+      <node id="blue_wool" label="blue_wool" />
+      <node id="magma_block" label="magma_block" />
+      <node id="magma_cream" label="magma_cream" />
+      <node id="iron_trapdoor" label="iron_trapdoor" />
+      <node id="oak_fence_gate" label="oak_fence_gate" />
+      <node id="acacia_trapdoor" label="acacia_trapdoor" />
+      <node id="birch_wood" label="birch_wood" />
+      <node id="birch_log" label="birch_log" />
+      <node id="light_blue_carpet" label="light_blue_carpet" />
+      <node id="light_blue_dye" label="light_blue_dye" />
+      <node id="cut_red_sandstone_slab" label="cut_red_sandstone_slab" />
+      <node id="cut_red_sandstone" label="cut_red_sandstone" />
+      <node id="oak_boat" label="oak_boat" />
+      <node id="wooden_pickaxe" label="wooden_pickaxe" />
+      <node id="black_bed" label="black_bed" />
+      <node id="black_wool" label="black_wool" />
+      <node id="jungle_wood" label="jungle_wood" />
+      <node id="jungle_log" label="jungle_log" />
+      <node id="lime_stained_glass_pane" label="lime_stained_glass_pane" />
+      <node id="orange_terracotta" label="orange_terracotta" />
+      <node id="acacia_boat" label="acacia_boat" />
+      <node id="jungle_door" label="jungle_door" />
+      <node id="bowl" label="bowl" />
+      <node id="polished_basalt" label="polished_basalt" />
+      <node id="basalt" label="basalt" />
+      <node id="diamond_axe" label="diamond_axe" />
+      <node id="yellow_glazed_terracotta" label="yellow_glazed_terracotta" />
+      <node id="yellow_terracotta" label="yellow_terracotta" />
+      <node id="black_banner" label="black_banner" />
+      <node id="lime_banner" label="lime_banner" />
+      <node id="orange_stained_glass_pane" label="orange_stained_glass_pane" />
+      <node id="stone_brick_slab" label="stone_brick_slab" />
+      <node id="dark_oak_trapdoor" label="dark_oak_trapdoor" />
+      <node id="stone_pressure_plate" label="stone_pressure_plate" />
+      <node id="honey_block" label="honey_block" />
+      <node id="honey_bottle" label="honey_bottle" />
+      <node id="white_stained_glass_pane" label="white_stained_glass_pane" />
+      <node id="oak_fence" label="oak_fence" />
+      <node id="dark_oak_pressure_plate" label="dark_oak_pressure_plate" />
+      <node id="gold_block" label="gold_block" />
+      <node id="nether_brick_wall" label="nether_brick_wall" />
+      <node id="lantern" label="lantern" />
+      <node id="light_blue_terracotta" label="light_blue_terracotta" />
+      <node id="warped_trapdoor" label="warped_trapdoor" />
+      <node id="blue_glazed_terracotta" label="blue_glazed_terracotta" />
+      <node id="jungle_pressure_plate" label="jungle_pressure_plate" />
+      <node id="brown_stained_glass" label="brown_stained_glass" />
+      <node id="coal_ore" label="coal_ore" />
+      <node id="bookshelf" label="bookshelf" />
+      <node id="cookie" label="cookie" />
+      <node id="wheat" label="wheat" />
+      <node id="cocoa_beans" label="cocoa_beans" />
+      <node id="lever" label="lever" />
+      <node id="white_stained_glass" label="white_stained_glass" />
+      <node id="honeycomb_block" label="honeycomb_block" />
+      <node id="honeycomb" label="honeycomb" />
+      <node id="light_gray_glazed_terracotta" label="light_gray_glazed_terracotta" />
+      <node id="diorite_wall" label="diorite_wall" />
+      <node id="barrel" label="barrel" />
+      <node id="sticky_piston" label="sticky_piston" />
+      <node id="slime_ball" label="slime_ball" />
+      <node id="birch_pressure_plate" label="birch_pressure_plate" />
+      <node id="dark_oak_sign" label="dark_oak_sign" />
+      <node id="sandstone_wall" label="sandstone_wall" />
+      <node id="spruce_stairs" label="spruce_stairs" />
+      <node id="blue_banner" label="blue_banner" />
+      <node id="green_stained_glass" label="green_stained_glass" />
+      <node id="lodestone" label="lodestone" />
+      <node id="daylight_detector" label="daylight_detector" />
+      <node id="brown_terracotta" label="brown_terracotta" />
+      <node id="conduit" label="conduit" />
+      <node id="nautilus_shell" label="nautilus_shell" />
+      <node id="heart_of_the_sea" label="heart_of_the_sea" />
+      <node id="soul_campfire" label="soul_campfire" />
+      <node id="soul_sand" label="soul_sand" />
+      <node id="soul_soil" label="soul_soil" />
+      <node id="orange_banner" label="orange_banner" />
+      <node id="lead" label="lead" />
+      <node id="red_sandstone_wall" label="red_sandstone_wall" />
+      <node id="magenta_banner" label="magenta_banner" />
+      <node id="green_stained_glass_pane" label="green_stained_glass_pane" />
+      <node id="end_stone_brick_wall" label="end_stone_brick_wall" />
+      <node id="red_bed" label="red_bed" />
+      <node id="jungle_fence" label="jungle_fence" />
+      <node id="oak_stairs" label="oak_stairs" />
+      <node id="rail" label="rail" />
+      <node id="target" label="target" />
+      <node id="hay_block" label="hay_block" />
+      <node id="cartography_table" label="cartography_table" />
+      <node id="powered_rail" label="powered_rail" />
+      <node id="red_nether_brick_wall" label="red_nether_brick_wall" />
+      <node id="heavy_weighted_pressure_plate" label="heavy_weighted_pressure_plate" />
+      <node id="blue_bed" label="blue_bed" />
+      <node id="blackstone_stairs" label="blackstone_stairs" />
+      <node id="coarse_dirt" label="coarse_dirt" />
+      <node id="dirt" label="dirt" />
+      <node id="gravel" label="gravel" />
+      <node id="snow" label="snow" />
+      <node id="carrot_on_a_stick" label="carrot_on_a_stick" />
+      <node id="carrot" label="carrot" />
+      <node id="cyan_banner" label="cyan_banner" />
+      <node id="red_terracotta" label="red_terracotta" />
+      <node id="green_banner" label="green_banner" />
+      <node id="beehive" label="beehive" />
+      <node id="birch_door" label="birch_door" />
+      <node id="gray_carpet" label="gray_carpet" />
+      <node id="smooth_quartz_slab" label="smooth_quartz_slab" />
+      <node id="cyan_bed" label="cyan_bed" />
+      <node id="jungle_boat" label="jungle_boat" />
+      <node id="white_glazed_terracotta" label="white_glazed_terracotta" />
+      <node id="cracked_polished_blackstone_bricks" label="cracked_polished_blackstone_bricks" />
+      <node id="prismarine_brick_stairs" label="prismarine_brick_stairs" />
+      <node id="tnt" label="tnt" />
+      <node id="gunpowder" label="gunpowder" />
+      <node id="jukebox" label="jukebox" />
+      <node id="jungle_trapdoor" label="jungle_trapdoor" />
+      <node id="tnt_minecart" label="tnt_minecart" />
+      <node id="acacia_stairs" label="acacia_stairs" />
+      <node id="andesite_slab" label="andesite_slab" />
+      <node id="armor_stand" label="armor_stand" />
+      <node id="stripped_birch_wood" label="stripped_birch_wood" />
+      <node id="stripped_birch_log" label="stripped_birch_log" />
+      <node id="brown_banner" label="brown_banner" />
+      <node id="dark_oak_fence_gate" label="dark_oak_fence_gate" />
+      <node id="birch_sign" label="birch_sign" />
+      <node id="item_frame" label="item_frame" />
+      <node id="anvil" label="anvil" />
+      <node id="gold_ores" label="gold_ores" />
+      <node id="leather_chestplate" label="leather_chestplate" />
+      <node id="acacia_sign" label="acacia_sign" />
+      <node id="orange_glazed_terracotta" label="orange_glazed_terracotta" />
+      <node id="birch_stairs" label="birch_stairs" />
+      <node id="cyan_stained_glass" label="cyan_stained_glass" />
+      <node id="gray_bed" label="gray_bed" />
+      <node id="gray_wool" label="gray_wool" />
+      <node id="golden_apple" label="golden_apple" />
+      <node id="apple" label="apple" />
+      <node id="campfire" label="campfire" />
+      <node id="bow" label="bow" />
+      <node id="chiseled_nether_bricks" label="chiseled_nether_bricks" />
+      <node id="stone_shovel" label="stone_shovel" />
+      <node id="spruce_sign" label="spruce_sign" />
+      <node id="stripped_spruce_wood" label="stripped_spruce_wood" />
+      <node id="stripped_spruce_log" label="stripped_spruce_log" />
+      <node id="note_block" label="note_block" />
+      <node id="white_bed" label="white_bed" />
+      <node id="blast_furnace" label="blast_furnace" />
+      <node id="painting" label="painting" />
+      <node id="white_banner" label="white_banner" />
+      <node id="crimson_hyphae" label="crimson_hyphae" />
+      <node id="crimson_stem" label="crimson_stem" />
+      <node id="feather" label="feather" />
+      <node id="polished_blackstone_brick_wall" label="polished_blackstone_brick_wall" />
+      <node id="birch_fence" label="birch_fence" />
+      <node id="cracked_nether_bricks" label="cracked_nether_bricks" />
+      <node id="dark_oak_fence" label="dark_oak_fence" />
+      <node id="diamond_boots" label="diamond_boots" />
+      <node id="cake" label="cake" />
+      <node id="milk_bucket" label="milk_bucket" />
+      <node id="sugar" label="sugar" />
+      <node id="egg" label="egg" />
+      <node id="bone_block" label="bone_block" />
+      <node id="bone_meal" label="bone_meal" />
+      <node id="red_glazed_terracotta" label="red_glazed_terracotta" />
+      <node id="dispenser" label="dispenser" />
+      <node id="leather_helmet" label="leather_helmet" />
+      <node id="wooden_sword" label="wooden_sword" />
+      <node id="brown_glazed_terracotta" label="brown_glazed_terracotta" />
+      <node id="magenta_stained_glass" label="magenta_stained_glass" />
+      <node id="bread" label="bread" />
+      <node id="leather_leggings" label="leather_leggings" />
+      <node id="sugar_cane" label="sugar_cane" />
+      <node id="crimson_fence" label="crimson_fence" />
+      <node id="birch_trapdoor" label="birch_trapdoor" />
+      <node id="nether_brick_fence" label="nether_brick_fence" />
+      <node id="golden_carrot" label="golden_carrot" />
+      <node id="stonecutter" label="stonecutter" />
+      <node id="light_blue_glazed_terracotta" label="light_blue_glazed_terracotta" />
+      <node id="crimson_pressure_plate" label="crimson_pressure_plate" />
+      <node id="dark_oak_stairs" label="dark_oak_stairs" />
+      <node id="shears" label="shears" />
+      <node id="shield" label="shield" />
+      <node id="diamond_pickaxe" label="diamond_pickaxe" />
+      <node id="warped_fungus_on_a_stick" label="warped_fungus_on_a_stick" />
+      <node id="warped_fungus" label="warped_fungus" />
+      <node id="spruce_door" label="spruce_door" />
+      <node id="observer" label="observer" />
+      <node id="spruce_trapdoor" label="spruce_trapdoor" />
+      <node id="wooden_axe" label="wooden_axe" />
+      <node id="diamond_hoe" label="diamond_hoe" />
+      <node id="pink_glazed_terracotta" label="pink_glazed_terracotta" />
+      <node id="emerald_block" label="emerald_block" />
+      <node id="ender_chest" label="ender_chest" />
+      <node id="light_gray_bed" label="light_gray_bed" />
+      <node id="wooden_hoe" label="wooden_hoe" />
+      <node id="jungle_sign" label="jungle_sign" />
+      <node id="purple_glazed_terracotta" label="purple_glazed_terracotta" />
+      <node id="slime_block" label="slime_block" />
+      <node id="coal_block" label="coal_block" />
+      <node id="iron_door" label="iron_door" />
+      <node id="redstone_lamp" label="redstone_lamp" />
+      <node id="acacia_fence" label="acacia_fence" />
+      <node id="flower_pot" label="flower_pot" />
+      <node id="glass_bottle" label="glass_bottle" />
+      <node id="detector_rail" label="detector_rail" />
+      <node id="spruce_fence_gate" label="spruce_fence_gate" />
+      <node id="crimson_stairs" label="crimson_stairs" />
+      <node id="netherrack" label="netherrack" />
+      <node id="lectern" label="lectern" />
+      <node id="gray_banner" label="gray_banner" />
+      <node id="light_blue_bed" label="light_blue_bed" />
+      <node id="lime_bed" label="lime_bed" />
+    </nodes>
+    <edges>
+      <edge source="lapis_lazuli" target="lapis_ore" id="0" />
+      <edge source="lapis_lazuli" target="lapis_block" id="1" />
+      <edge source="pink_stained_glass" target="glass" id="2" />
+      <edge source="pink_stained_glass" target="pink_dye" id="3" />
+      <edge source="pink_stained_glass" target="pink_stained_glass_pane" id="4" />
+      <edge source="glass" target="sand" id="5" />
+      <edge source="glass" target="beacon" id="6" />
+      <edge source="glass" target="light_gray_stained_glass" id="7" />
+      <edge source="glass" target="glass_pane" id="8" />
+      <edge source="glass" target="black_stained_glass" id="9" />
+      <edge source="glass" target="light_blue_stained_glass" id="10" />
+      <edge source="glass" target="end_crystal" id="11" />
+      <edge source="glass" target="lime_stained_glass" id="12" />
+      <edge source="glass" target="yellow_stained_glass" id="13" />
+      <edge source="glass" target="gray_stained_glass" id="14" />
+      <edge source="glass" target="blue_stained_glass" id="15" />
+      <edge source="glass" target="red_stained_glass" id="16" />
+      <edge source="glass" target="purple_stained_glass" id="17" />
+      <edge source="glass" target="orange_stained_glass" id="18" />
+      <edge source="glass" target="brown_stained_glass" id="19" />
+      <edge source="glass" target="white_stained_glass" id="20" />
+      <edge source="glass" target="green_stained_glass" id="21" />
+      <edge source="glass" target="daylight_detector" id="22" />
+      <edge source="glass" target="cyan_stained_glass" id="23" />
+      <edge source="glass" target="magenta_stained_glass" id="24" />
+      <edge source="glass" target="glass_bottle" id="25" />
+      <edge source="pink_dye" target="pink_terracotta" id="26" />
+      <edge source="pink_dye" target="pink_stained_glass_pane" id="27" />
+      <edge source="pink_dye" target="pink_carpet" id="28" />
+      <edge source="bucket" target="iron_ingot" id="29" />
+      <edge source="iron_ingot" target="iron_ore" id="30" />
+      <edge source="iron_ingot" target="iron_nugget" id="31" />
+      <edge source="iron_ingot" target="chain" id="32" />
+      <edge source="iron_ingot" target="minecart" id="33" />
+      <edge source="iron_ingot" target="iron_shovel" id="34" />
+      <edge source="iron_ingot" target="iron_helmet" id="35" />
+      <edge source="iron_ingot" target="iron_pickaxe" id="36" />
+      <edge source="iron_ingot" target="iron_axe" id="37" />
+      <edge source="iron_ingot" target="iron_hoe" id="38" />
+      <edge source="iron_ingot" target="iron_sword" id="39" />
+      <edge source="iron_ingot" target="iron_chestplate" id="40" />
+      <edge source="iron_ingot" target="iron_leggings" id="41" />
+      <edge source="iron_ingot" target="iron_boots" id="42" />
+      <edge source="iron_ingot" target="compass" id="43" />
+      <edge source="iron_ingot" target="iron_block" id="44" />
+      <edge source="iron_ingot" target="iron_bars" id="45" />
+      <edge source="iron_ingot" target="activator_rail" id="46" />
+      <edge source="iron_ingot" target="cauldron" id="47" />
+      <edge source="iron_ingot" target="crossbow" id="48" />
+      <edge source="iron_ingot" target="tripwire_hook" id="49" />
+      <edge source="iron_ingot" target="hopper" id="50" />
+      <edge source="iron_ingot" target="piston" id="51" />
+      <edge source="iron_ingot" target="smithing_table" id="52" />
+      <edge source="iron_ingot" target="iron_trapdoor" id="53" />
+      <edge source="iron_ingot" target="rail" id="54" />
+      <edge source="iron_ingot" target="heavy_weighted_pressure_plate" id="55" />
+      <edge source="iron_ingot" target="anvil" id="56" />
+      <edge source="iron_ingot" target="blast_furnace" id="57" />
+      <edge source="iron_ingot" target="stonecutter" id="58" />
+      <edge source="iron_ingot" target="shears" id="59" />
+      <edge source="iron_ingot" target="shield" id="60" />
+      <edge source="iron_ingot" target="iron_door" id="61" />
+      <edge source="iron_ingot" target="detector_rail" id="62" />
+      <edge source="orange_carpet" target="orange_wool" id="63" />
+      <edge source="orange_carpet" target="white_carpet" id="64" />
+      <edge source="orange_carpet" target="orange_dye" id="65" />
+      <edge source="orange_wool" target="orange_bed" id="66" />
+      <edge source="orange_wool" target="orange_banner" id="67" />
+      <edge source="orange_wool" target="painting" id="68" />
+      <edge source="chain" target="iron_nugget" id="69" />
+      <edge source="iron_nugget" target="iron_pickaxe" id="70" />
+      <edge source="iron_nugget" target="iron_shovel" id="71" />
+      <edge source="iron_nugget" target="iron_axe" id="72" />
+      <edge source="iron_nugget" target="iron_hoe" id="73" />
+      <edge source="iron_nugget" target="iron_sword" id="74" />
+      <edge source="iron_nugget" target="iron_helmet" id="75" />
+      <edge source="iron_nugget" target="iron_chestplate" id="76" />
+      <edge source="iron_nugget" target="iron_leggings" id="77" />
+      <edge source="iron_nugget" target="iron_boots" id="78" />
+      <edge source="iron_nugget" target="iron_horse_armor" id="79" />
+      <edge source="iron_nugget" target="chainmail_helmet" id="80" />
+      <edge source="iron_nugget" target="chainmail_chestplate" id="81" />
+      <edge source="iron_nugget" target="chainmail_leggings" id="82" />
+      <edge source="iron_nugget" target="chainmail_boots" id="83" />
+      <edge source="iron_nugget" target="soul_lantern" id="84" />
+      <edge source="iron_nugget" target="lantern" id="85" />
+      <edge source="stone_sword" target="stick" id="86" />
+      <edge source="stone_sword" target="cobblestone" id="87" />
+      <edge source="stone_sword" target="blackstone" id="88" />
+      <edge source="stick" target="bamboo" id="89" />
+      <edge source="stick" target="oak_planks" id="90" />
+      <edge source="stick" target="spruce_planks" id="91" />
+      <edge source="stick" target="birch_planks" id="92" />
+      <edge source="stick" target="jungle_planks" id="93" />
+      <edge source="stick" target="acacia_planks" id="94" />
+      <edge source="stick" target="dark_oak_planks" id="95" />
+      <edge source="stick" target="crimson_planks" id="96" />
+      <edge source="stick" target="warped_planks" id="97" />
+      <edge source="stick" target="warped_fence" id="98" />
+      <edge source="stick" target="golden_pickaxe" id="99" />
+      <edge source="stick" target="iron_shovel" id="100" />
+      <edge source="stick" target="light_gray_banner" id="101" />
+      <edge source="stick" target="acacia_fence_gate" id="102" />
+      <edge source="stick" target="diamond_sword" id="103" />
+      <edge source="stick" target="iron_pickaxe" id="104" />
+      <edge source="stick" target="iron_axe" id="105" />
+      <edge source="stick" target="iron_hoe" id="106" />
+      <edge source="stick" target="iron_sword" id="107" />
+      <edge source="stick" target="golden_shovel" id="108" />
+      <edge source="stick" target="birch_fence_gate" id="109" />
+      <edge source="stick" target="ladder" id="110" />
+      <edge source="stick" target="jungle_fence_gate" id="111" />
+      <edge source="stick" target="red_banner" id="112" />
+      <edge source="stick" target="oak_sign" id="113" />
+      <edge source="stick" target="activator_rail" id="114" />
+      <edge source="stick" target="redstone_torch" id="115" />
+      <edge source="stick" target="yellow_banner" id="116" />
+      <edge source="stick" target="wooden_shovel" id="117" />
+      <edge source="stick" target="light_blue_banner" id="118" />
+      <edge source="stick" target="soul_torch" id="119" />
+      <edge source="stick" target="crimson_fence_gate" id="120" />
+      <edge source="stick" target="arrow" id="121" />
+      <edge source="stick" target="torch" id="122" />
+      <edge source="stick" target="warped_sign" id="123" />
+      <edge source="stick" target="diamond_shovel" id="124" />
+      <edge source="stick" target="golden_axe" id="125" />
+      <edge source="stick" target="golden_hoe" id="126" />
+      <edge source="stick" target="golden_sword" id="127" />
+      <edge source="stick" target="crossbow" id="128" />
+      <edge source="stick" target="tripwire_hook" id="129" />
+      <edge source="stick" target="warped_fence_gate" id="130" />
+      <edge source="stick" target="crimson_sign" id="131" />
+      <edge source="stick" target="fishing_rod" id="132" />
+      <edge source="stick" target="stone_pickaxe" id="133" />
+      <edge source="stick" target="purple_banner" id="134" />
+      <edge source="stick" target="stone_axe" id="135" />
+      <edge source="stick" target="stone_hoe" id="136" />
+      <edge source="stick" target="pink_banner" id="137" />
+      <edge source="stick" target="spruce_fence" id="138" />
+      <edge source="stick" target="grindstone" id="139" />
+      <edge source="stick" target="oak_fence_gate" id="140" />
+      <edge source="stick" target="wooden_pickaxe" id="141" />
+      <edge source="stick" target="diamond_axe" id="142" />
+      <edge source="stick" target="black_banner" id="143" />
+      <edge source="stick" target="lime_banner" id="144" />
+      <edge source="stick" target="oak_fence" id="145" />
+      <edge source="stick" target="lever" id="146" />
+      <edge source="stick" target="dark_oak_sign" id="147" />
+      <edge source="stick" target="blue_banner" id="148" />
+      <edge source="stick" target="soul_campfire" id="149" />
+      <edge source="stick" target="orange_banner" id="150" />
+      <edge source="stick" target="magenta_banner" id="151" />
+      <edge source="stick" target="jungle_fence" id="152" />
+      <edge source="stick" target="rail" id="153" />
+      <edge source="stick" target="powered_rail" id="154" />
+      <edge source="stick" target="cyan_banner" id="155" />
+      <edge source="stick" target="green_banner" id="156" />
+      <edge source="stick" target="armor_stand" id="157" />
+      <edge source="stick" target="brown_banner" id="158" />
+      <edge source="stick" target="dark_oak_fence_gate" id="159" />
+      <edge source="stick" target="birch_sign" id="160" />
+      <edge source="stick" target="item_frame" id="161" />
+      <edge source="stick" target="acacia_sign" id="162" />
+      <edge source="stick" target="campfire" id="163" />
+      <edge source="stick" target="bow" id="164" />
+      <edge source="stick" target="stone_shovel" id="165" />
+      <edge source="stick" target="spruce_sign" id="166" />
+      <edge source="stick" target="painting" id="167" />
+      <edge source="stick" target="white_banner" id="168" />
+      <edge source="stick" target="birch_fence" id="169" />
+      <edge source="stick" target="dark_oak_fence" id="170" />
+      <edge source="stick" target="wooden_sword" id="171" />
+      <edge source="stick" target="crimson_fence" id="172" />
+      <edge source="stick" target="diamond_pickaxe" id="173" />
+      <edge source="stick" target="wooden_axe" id="174" />
+      <edge source="stick" target="diamond_hoe" id="175" />
+      <edge source="stick" target="wooden_hoe" id="176" />
+      <edge source="stick" target="jungle_sign" id="177" />
+      <edge source="stick" target="acacia_fence" id="178" />
+      <edge source="stick" target="spruce_fence_gate" id="179" />
+      <edge source="stick" target="gray_banner" id="180" />
+      <edge source="cobblestone" target="stone" id="181" />
+      <edge source="cobblestone" target="furnace" id="182" />
+      <edge source="cobblestone" target="brewing_stand" id="183" />
+      <edge source="cobblestone" target="diorite" id="184" />
+      <edge source="cobblestone" target="cobblestone_stairs" id="185" />
+      <edge source="cobblestone" target="cobblestone_wall" id="186" />
+      <edge source="cobblestone" target="stone_pickaxe" id="187" />
+      <edge source="cobblestone" target="piston" id="188" />
+      <edge source="cobblestone" target="stone_axe" id="189" />
+      <edge source="cobblestone" target="stone_hoe" id="190" />
+      <edge source="cobblestone" target="cobblestone_slab" id="191" />
+      <edge source="cobblestone" target="dropper" id="192" />
+      <edge source="cobblestone" target="lever" id="193" />
+      <edge source="cobblestone" target="stone_shovel" id="194" />
+      <edge source="cobblestone" target="dispenser" id="195" />
+      <edge source="cobblestone" target="observer" id="196" />
+      <edge source="blackstone" target="furnace" id="197" />
+      <edge source="blackstone" target="polished_blackstone_wall" id="198" />
+      <edge source="blackstone" target="polished_blackstone" id="199" />
+      <edge source="blackstone" target="brewing_stand" id="200" />
+      <edge source="blackstone" target="polished_blackstone_bricks" id="201" />
+      <edge source="blackstone" target="polished_blackstone_brick_stairs" id="202" />
+      <edge source="blackstone" target="chiseled_polished_blackstone" id="203" />
+      <edge source="blackstone" target="polished_blackstone_brick_slab" id="204" />
+      <edge source="blackstone" target="blackstone_slab" id="205" />
+      <edge source="blackstone" target="blackstone_wall" id="206" />
+      <edge source="blackstone" target="polished_blackstone_slab" id="207" />
+      <edge source="blackstone" target="polished_blackstone_stairs" id="208" />
+      <edge source="blackstone" target="stone_pickaxe" id="209" />
+      <edge source="blackstone" target="stone_axe" id="210" />
+      <edge source="blackstone" target="stone_hoe" id="211" />
+      <edge source="blackstone" target="blackstone_stairs" id="212" />
+      <edge source="blackstone" target="stone_shovel" id="213" />
+      <edge source="blackstone" target="polished_blackstone_brick_wall" id="214" />
+      <edge source="red_sandstone_slab" target="red_sandstone" id="215" />
+      <edge source="red_sandstone_slab" target="chiseled_red_sandstone" id="216" />
+      <edge source="red_sandstone" target="red_sand" id="217" />
+      <edge source="red_sandstone" target="chiseled_red_sandstone" id="218" />
+      <edge source="red_sandstone" target="red_sandstone_stairs" id="219" />
+      <edge source="red_sandstone" target="smooth_red_sandstone" id="220" />
+      <edge source="red_sandstone" target="cut_red_sandstone_slab" id="221" />
+      <edge source="red_sandstone" target="cut_red_sandstone" id="222" />
+      <edge source="red_sandstone" target="red_sandstone_wall" id="223" />
+      <edge source="chiseled_red_sandstone" target="red_sandstone_stairs" id="224" />
+      <edge source="magenta_carpet" target="white_carpet" id="225" />
+      <edge source="magenta_carpet" target="magenta_dye" id="226" />
+      <edge source="magenta_carpet" target="magenta_wool" id="227" />
+      <edge source="white_carpet" target="white_wool" id="228" />
+      <edge source="white_carpet" target="yellow_carpet" id="229" />
+      <edge source="white_carpet" target="purple_carpet" id="230" />
+      <edge source="white_carpet" target="cyan_carpet" id="231" />
+      <edge source="white_carpet" target="lime_carpet" id="232" />
+      <edge source="white_carpet" target="light_gray_carpet" id="233" />
+      <edge source="white_carpet" target="brown_carpet" id="234" />
+      <edge source="white_carpet" target="green_carpet" id="235" />
+      <edge source="white_carpet" target="red_carpet" id="236" />
+      <edge source="white_carpet" target="black_carpet" id="237" />
+      <edge source="white_carpet" target="pink_carpet" id="238" />
+      <edge source="white_carpet" target="blue_carpet" id="239" />
+      <edge source="white_carpet" target="light_blue_carpet" id="240" />
+      <edge source="white_carpet" target="gray_carpet" id="241" />
+      <edge source="magenta_dye" target="magenta_terracotta" id="242" />
+      <edge source="magenta_dye" target="magenta_stained_glass_pane" id="243" />
+      <edge source="magenta_dye" target="magenta_stained_glass" id="244" />
+      <edge source="smooth_sandstone" target="sandstone" id="245" />
+      <edge source="smooth_sandstone" target="smooth_sandstone_slab" id="246" />
+      <edge source="smooth_sandstone" target="smooth_sandstone_stairs" id="247" />
+      <edge source="sandstone" target="sand" id="248" />
+      <edge source="sandstone" target="cut_sandstone" id="249" />
+      <edge source="sandstone" target="cut_sandstone_slab" id="250" />
+      <edge source="sandstone" target="sandstone_stairs" id="251" />
+      <edge source="sandstone" target="chiseled_sandstone" id="252" />
+      <edge source="sandstone" target="sandstone_slab" id="253" />
+      <edge source="sandstone" target="sandstone_wall" id="254" />
+      <edge source="oak_wood" target="oak_log" id="255" />
+      <edge source="stripped_warped_hyphae" target="stripped_warped_stem" id="256" />
+      <edge source="red_sandstone_stairs" target="cut_red_sandstone" id="257" />
+      <edge source="smooth_stone_slab" target="smooth_stone" id="258" />
+      <edge source="smooth_stone_slab" target="armor_stand" id="259" />
+      <edge source="smooth_stone" target="stone" id="260" />
+      <edge source="smooth_stone" target="blast_furnace" id="261" />
+      <edge source="sand" target="tnt" id="262" />
+      <edge source="golden_chestplate" target="gold_ingot" id="263" />
+      <edge source="golden_chestplate" target="gold_nugget" id="264" />
+      <edge source="gold_ingot" target="gold_nugget" id="265" />
+      <edge source="gold_ingot" target="gold_ores" id="266" />
+      <edge source="gold_ingot" target="light_weighted_pressure_plate" id="267" />
+      <edge source="gold_ingot" target="golden_pickaxe" id="268" />
+      <edge source="gold_ingot" target="golden_shovel" id="269" />
+      <edge source="gold_ingot" target="golden_helmet" id="270" />
+      <edge source="gold_ingot" target="golden_axe" id="271" />
+      <edge source="gold_ingot" target="golden_hoe" id="272" />
+      <edge source="gold_ingot" target="golden_sword" id="273" />
+      <edge source="gold_ingot" target="golden_leggings" id="274" />
+      <edge source="gold_ingot" target="golden_boots" id="275" />
+      <edge source="gold_ingot" target="clock" id="276" />
+      <edge source="gold_ingot" target="gold_block" id="277" />
+      <edge source="gold_ingot" target="powered_rail" id="278" />
+      <edge source="gold_ingot" target="golden_apple" id="279" />
+      <edge source="black_terracotta" target="terracotta" id="280" />
+      <edge source="black_terracotta" target="black_dye" id="281" />
+      <edge source="black_terracotta" target="black_glazed_terracotta" id="282" />
+      <edge source="terracotta" target="clay" id="283" />
+      <edge source="terracotta" target="pink_terracotta" id="284" />
+      <edge source="terracotta" target="green_terracotta" id="285" />
+      <edge source="terracotta" target="magenta_terracotta" id="286" />
+      <edge source="terracotta" target="cyan_terracotta" id="287" />
+      <edge source="terracotta" target="gray_terracotta" id="288" />
+      <edge source="terracotta" target="blue_terracotta" id="289" />
+      <edge source="terracotta" target="white_terracotta" id="290" />
+      <edge source="terracotta" target="lime_terracotta" id="291" />
+      <edge source="terracotta" target="light_gray_terracotta" id="292" />
+      <edge source="terracotta" target="purple_terracotta" id="293" />
+      <edge source="terracotta" target="orange_terracotta" id="294" />
+      <edge source="terracotta" target="yellow_terracotta" id="295" />
+      <edge source="terracotta" target="light_blue_terracotta" id="296" />
+      <edge source="terracotta" target="brown_terracotta" id="297" />
+      <edge source="terracotta" target="red_terracotta" id="298" />
+      <edge source="black_dye" target="dark_prismarine" id="299" />
+      <edge source="black_dye" target="black_stained_glass" id="300" />
+      <edge source="black_dye" target="black_stained_glass_pane" id="301" />
+      <edge source="black_dye" target="black_carpet" id="302" />
+      <edge source="stone_slab" target="stone" id="303" />
+      <edge source="stone_slab" target="grindstone" id="304" />
+      <edge source="stone" target="stone_bricks" id="305" />
+      <edge source="stone" target="comparator" id="306" />
+      <edge source="stone" target="stone_brick_stairs" id="307" />
+      <edge source="stone" target="stone_brick_wall" id="308" />
+      <edge source="stone" target="chiseled_stone_bricks" id="309" />
+      <edge source="stone" target="stone_stairs" id="310" />
+      <edge source="stone" target="repeater" id="311" />
+      <edge source="stone" target="stone_brick_slab" id="312" />
+      <edge source="stone" target="stone_pressure_plate" id="313" />
+      <edge source="stone" target="stonecutter" id="314" />
+      <edge source="oak_trapdoor" target="oak_planks" id="315" />
+      <edge source="oak_planks" target="chest" id="316" />
+      <edge source="oak_planks" target="brown_bed" id="317" />
+      <edge source="oak_planks" target="oak_door" id="318" />
+      <edge source="oak_planks" target="oak_sign" id="319" />
+      <edge source="oak_planks" target="orange_bed" id="320" />
+      <edge source="oak_planks" target="wooden_shovel" id="321" />
+      <edge source="oak_planks" target="magenta_bed" id="322" />
+      <edge source="oak_planks" target="yellow_bed" id="323" />
+      <edge source="oak_planks" target="fletching_table" id="324" />
+      <edge source="oak_planks" target="tripwire_hook" id="325" />
+      <edge source="oak_planks" target="piston" id="326" />
+      <edge source="oak_planks" target="smithing_table" id="327" />
+      <edge source="oak_planks" target="oak_slab" id="328" />
+      <edge source="oak_planks" target="oak_pressure_plate" id="329" />
+      <edge source="oak_planks" target="crafting_table" id="330" />
+      <edge source="oak_planks" target="grindstone" id="331" />
+      <edge source="oak_planks" target="purple_bed" id="332" />
+      <edge source="oak_planks" target="pink_bed" id="333" />
+      <edge source="oak_planks" target="green_bed" id="334" />
+      <edge source="oak_planks" target="loom" id="335" />
+      <edge source="oak_planks" target="oak_fence_gate" id="336" />
+      <edge source="oak_planks" target="oak_boat" id="337" />
+      <edge source="oak_planks" target="wooden_pickaxe" id="338" />
+      <edge source="oak_planks" target="black_bed" id="339" />
+      <edge source="oak_planks" target="bowl" id="340" />
+      <edge source="oak_planks" target="oak_fence" id="341" />
+      <edge source="oak_planks" target="bookshelf" id="342" />
+      <edge source="oak_planks" target="barrel" id="343" />
+      <edge source="oak_planks" target="red_bed" id="344" />
+      <edge source="oak_planks" target="oak_stairs" id="345" />
+      <edge source="oak_planks" target="cartography_table" id="346" />
+      <edge source="oak_planks" target="blue_bed" id="347" />
+      <edge source="oak_planks" target="beehive" id="348" />
+      <edge source="oak_planks" target="cyan_bed" id="349" />
+      <edge source="oak_planks" target="jukebox" id="350" />
+      <edge source="oak_planks" target="gray_bed" id="351" />
+      <edge source="oak_planks" target="note_block" id="352" />
+      <edge source="oak_planks" target="white_bed" id="353" />
+      <edge source="oak_planks" target="wooden_sword" id="354" />
+      <edge source="oak_planks" target="shield" id="355" />
+      <edge source="oak_planks" target="wooden_axe" id="356" />
+      <edge source="oak_planks" target="light_gray_bed" id="357" />
+      <edge source="oak_planks" target="wooden_hoe" id="358" />
+      <edge source="oak_planks" target="light_blue_bed" id="359" />
+      <edge source="oak_planks" target="lime_bed" id="360" />
+      <edge source="birch_boat" target="birch_planks" id="361" />
+      <edge source="birch_planks" target="chest" id="362" />
+      <edge source="birch_planks" target="brown_bed" id="363" />
+      <edge source="birch_planks" target="birch_fence_gate" id="364" />
+      <edge source="birch_planks" target="orange_bed" id="365" />
+      <edge source="birch_planks" target="wooden_shovel" id="366" />
+      <edge source="birch_planks" target="magenta_bed" id="367" />
+      <edge source="birch_planks" target="yellow_bed" id="368" />
+      <edge source="birch_planks" target="fletching_table" id="369" />
+      <edge source="birch_planks" target="tripwire_hook" id="370" />
+      <edge source="birch_planks" target="piston" id="371" />
+      <edge source="birch_planks" target="smithing_table" id="372" />
+      <edge source="birch_planks" target="birch_slab" id="373" />
+      <edge source="birch_planks" target="crafting_table" id="374" />
+      <edge source="birch_planks" target="grindstone" id="375" />
+      <edge source="birch_planks" target="purple_bed" id="376" />
+      <edge source="birch_planks" target="pink_bed" id="377" />
+      <edge source="birch_planks" target="green_bed" id="378" />
+      <edge source="birch_planks" target="loom" id="379" />
+      <edge source="birch_planks" target="wooden_pickaxe" id="380" />
+      <edge source="birch_planks" target="black_bed" id="381" />
+      <edge source="birch_planks" target="bowl" id="382" />
+      <edge source="birch_planks" target="bookshelf" id="383" />
+      <edge source="birch_planks" target="barrel" id="384" />
+      <edge source="birch_planks" target="birch_pressure_plate" id="385" />
+      <edge source="birch_planks" target="red_bed" id="386" />
+      <edge source="birch_planks" target="cartography_table" id="387" />
+      <edge source="birch_planks" target="blue_bed" id="388" />
+      <edge source="birch_planks" target="beehive" id="389" />
+      <edge source="birch_planks" target="birch_door" id="390" />
+      <edge source="birch_planks" target="cyan_bed" id="391" />
+      <edge source="birch_planks" target="jukebox" id="392" />
+      <edge source="birch_planks" target="birch_sign" id="393" />
+      <edge source="birch_planks" target="birch_stairs" id="394" />
+      <edge source="birch_planks" target="gray_bed" id="395" />
+      <edge source="birch_planks" target="note_block" id="396" />
+      <edge source="birch_planks" target="white_bed" id="397" />
+      <edge source="birch_planks" target="birch_fence" id="398" />
+      <edge source="birch_planks" target="wooden_sword" id="399" />
+      <edge source="birch_planks" target="birch_trapdoor" id="400" />
+      <edge source="birch_planks" target="shield" id="401" />
+      <edge source="birch_planks" target="wooden_axe" id="402" />
+      <edge source="birch_planks" target="light_gray_bed" id="403" />
+      <edge source="birch_planks" target="wooden_hoe" id="404" />
+      <edge source="birch_planks" target="light_blue_bed" id="405" />
+      <edge source="birch_planks" target="lime_bed" id="406" />
+      <edge source="warped_fence" target="warped_planks" id="407" />
+      <edge source="warped_planks" target="chest" id="408" />
+      <edge source="warped_planks" target="brown_bed" id="409" />
+      <edge source="warped_planks" target="warped_pressure_plate" id="410" />
+      <edge source="warped_planks" target="orange_bed" id="411" />
+      <edge source="warped_planks" target="wooden_shovel" id="412" />
+      <edge source="warped_planks" target="magenta_bed" id="413" />
+      <edge source="warped_planks" target="yellow_bed" id="414" />
+      <edge source="warped_planks" target="fletching_table" id="415" />
+      <edge source="warped_planks" target="warped_sign" id="416" />
+      <edge source="warped_planks" target="tripwire_hook" id="417" />
+      <edge source="warped_planks" target="warped_fence_gate" id="418" />
+      <edge source="warped_planks" target="warped_slab" id="419" />
+      <edge source="warped_planks" target="piston" id="420" />
+      <edge source="warped_planks" target="smithing_table" id="421" />
+      <edge source="warped_planks" target="warped_stairs" id="422" />
+      <edge source="warped_planks" target="crafting_table" id="423" />
+      <edge source="warped_planks" target="grindstone" id="424" />
+      <edge source="warped_planks" target="purple_bed" id="425" />
+      <edge source="warped_planks" target="pink_bed" id="426" />
+      <edge source="warped_planks" target="green_bed" id="427" />
+      <edge source="warped_planks" target="loom" id="428" />
+      <edge source="warped_planks" target="warped_door" id="429" />
+      <edge source="warped_planks" target="wooden_pickaxe" id="430" />
+      <edge source="warped_planks" target="black_bed" id="431" />
+      <edge source="warped_planks" target="bowl" id="432" />
+      <edge source="warped_planks" target="warped_trapdoor" id="433" />
+      <edge source="warped_planks" target="bookshelf" id="434" />
+      <edge source="warped_planks" target="barrel" id="435" />
+      <edge source="warped_planks" target="red_bed" id="436" />
+      <edge source="warped_planks" target="cartography_table" id="437" />
+      <edge source="warped_planks" target="blue_bed" id="438" />
+      <edge source="warped_planks" target="beehive" id="439" />
+      <edge source="warped_planks" target="cyan_bed" id="440" />
+      <edge source="warped_planks" target="jukebox" id="441" />
+      <edge source="warped_planks" target="gray_bed" id="442" />
+      <edge source="warped_planks" target="note_block" id="443" />
+      <edge source="warped_planks" target="white_bed" id="444" />
+      <edge source="warped_planks" target="wooden_sword" id="445" />
+      <edge source="warped_planks" target="shield" id="446" />
+      <edge source="warped_planks" target="wooden_axe" id="447" />
+      <edge source="warped_planks" target="light_gray_bed" id="448" />
+      <edge source="warped_planks" target="wooden_hoe" id="449" />
+      <edge source="warped_planks" target="light_blue_bed" id="450" />
+      <edge source="warped_planks" target="lime_bed" id="451" />
+      <edge source="stripped_jungle_wood" target="stripped_jungle_log" id="452" />
+      <edge source="furnace_minecart" target="furnace" id="453" />
+      <edge source="furnace_minecart" target="minecart" id="454" />
+      <edge source="furnace" target="smoker" id="455" />
+      <edge source="furnace" target="blast_furnace" id="456" />
+      <edge source="minecart" target="chest_minecart" id="457" />
+      <edge source="minecart" target="hopper_minecart" id="458" />
+      <edge source="minecart" target="tnt_minecart" id="459" />
+      <edge source="golden_pickaxe" target="gold_nugget" id="460" />
+      <edge source="polished_diorite_stairs" target="polished_diorite" id="461" />
+      <edge source="polished_diorite_stairs" target="diorite" id="462" />
+      <edge source="polished_diorite" target="diorite" id="463" />
+      <edge source="polished_diorite" target="polished_diorite_slab" id="464" />
+      <edge source="stone_bricks" target="stone_brick_stairs" id="465" />
+      <edge source="stone_bricks" target="stone_brick_wall" id="466" />
+      <edge source="stone_bricks" target="chiseled_stone_bricks" id="467" />
+      <edge source="stone_bricks" target="cracked_stone_bricks" id="468" />
+      <edge source="stone_bricks" target="stone_brick_slab" id="469" />
+      <edge source="polished_blackstone_wall" target="polished_blackstone" id="470" />
+      <edge source="polished_blackstone" target="polished_blackstone_bricks" id="471" />
+      <edge source="polished_blackstone" target="polished_blackstone_brick_stairs" id="472" />
+      <edge source="polished_blackstone" target="chiseled_polished_blackstone" id="473" />
+      <edge source="polished_blackstone" target="polished_blackstone_brick_slab" id="474" />
+      <edge source="polished_blackstone" target="polished_blackstone_slab" id="475" />
+      <edge source="polished_blackstone" target="polished_blackstone_stairs" id="476" />
+      <edge source="polished_blackstone" target="polished_blackstone_pressure_plate" id="477" />
+      <edge source="polished_blackstone" target="polished_blackstone_brick_wall" id="478" />
+      <edge source="cooked_cod" target="cod" id="479" />
+      <edge source="shulker_box" target="chest" id="480" />
+      <edge source="shulker_box" target="shulker_shell" id="481" />
+      <edge source="chest" target="spruce_planks" id="482" />
+      <edge source="chest" target="jungle_planks" id="483" />
+      <edge source="chest" target="acacia_planks" id="484" />
+      <edge source="chest" target="dark_oak_planks" id="485" />
+      <edge source="chest" target="crimson_planks" id="486" />
+      <edge source="chest" target="chest_minecart" id="487" />
+      <edge source="chest" target="hopper" id="488" />
+      <edge source="beacon" target="nether_star" id="489" />
+      <edge source="beacon" target="obsidian" id="490" />
+      <edge source="obsidian" target="enchanting_table" id="491" />
+      <edge source="obsidian" target="ender_chest" id="492" />
+      <edge source="pink_terracotta" target="pink_glazed_terracotta" id="493" />
+      <edge source="glowstone" target="glowstone_dust" id="494" />
+      <edge source="glowstone" target="respawn_anchor" id="495" />
+      <edge source="glowstone" target="redstone_lamp" id="496" />
+      <edge source="glowstone_dust" target="spectral_arrow" id="497" />
+      <edge source="sponge" target="wet_sponge" id="498" />
+      <edge source="quartz_bricks" target="quartz_block" id="499" />
+      <edge source="quartz_block" target="quartz" id="500" />
+      <edge source="quartz_block" target="chiseled_quartz_block" id="501" />
+      <edge source="quartz_block" target="quartz_stairs" id="502" />
+      <edge source="quartz_block" target="smooth_quartz" id="503" />
+      <edge source="quartz_block" target="quartz_slab" id="504" />
+      <edge source="quartz_block" target="quartz_pillar" id="505" />
+      <edge source="redstone_block" target="redstone" id="506" />
+      <edge source="redstone" target="redstone_ore" id="507" />
+      <edge source="redstone" target="compass" id="508" />
+      <edge source="redstone" target="redstone_torch" id="509" />
+      <edge source="redstone" target="piston" id="510" />
+      <edge source="redstone" target="clock" id="511" />
+      <edge source="redstone" target="dropper" id="512" />
+      <edge source="redstone" target="repeater" id="513" />
+      <edge source="redstone" target="target" id="514" />
+      <edge source="redstone" target="powered_rail" id="515" />
+      <edge source="redstone" target="note_block" id="516" />
+      <edge source="redstone" target="dispenser" id="517" />
+      <edge source="redstone" target="observer" id="518" />
+      <edge source="redstone" target="redstone_lamp" id="519" />
+      <edge source="redstone" target="detector_rail" id="520" />
+      <edge source="purpur_slab" target="purpur_block" id="521" />
+      <edge source="purpur_slab" target="purpur_pillar" id="522" />
+      <edge source="purpur_block" target="popped_chorus_fruit" id="523" />
+      <edge source="purpur_block" target="purpur_stairs" id="524" />
+      <edge source="purpur_block" target="purpur_pillar" id="525" />
+      <edge source="spruce_pressure_plate" target="spruce_planks" id="526" />
+      <edge source="spruce_planks" target="brown_bed" id="527" />
+      <edge source="spruce_planks" target="orange_bed" id="528" />
+      <edge source="spruce_planks" target="spruce_boat" id="529" />
+      <edge source="spruce_planks" target="wooden_shovel" id="530" />
+      <edge source="spruce_planks" target="magenta_bed" id="531" />
+      <edge source="spruce_planks" target="yellow_bed" id="532" />
+      <edge source="spruce_planks" target="fletching_table" id="533" />
+      <edge source="spruce_planks" target="tripwire_hook" id="534" />
+      <edge source="spruce_planks" target="piston" id="535" />
+      <edge source="spruce_planks" target="smithing_table" id="536" />
+      <edge source="spruce_planks" target="spruce_slab" id="537" />
+      <edge source="spruce_planks" target="spruce_fence" id="538" />
+      <edge source="spruce_planks" target="crafting_table" id="539" />
+      <edge source="spruce_planks" target="grindstone" id="540" />
+      <edge source="spruce_planks" target="purple_bed" id="541" />
+      <edge source="spruce_planks" target="pink_bed" id="542" />
+      <edge source="spruce_planks" target="green_bed" id="543" />
+      <edge source="spruce_planks" target="loom" id="544" />
+      <edge source="spruce_planks" target="wooden_pickaxe" id="545" />
+      <edge source="spruce_planks" target="black_bed" id="546" />
+      <edge source="spruce_planks" target="bowl" id="547" />
+      <edge source="spruce_planks" target="bookshelf" id="548" />
+      <edge source="spruce_planks" target="barrel" id="549" />
+      <edge source="spruce_planks" target="spruce_stairs" id="550" />
+      <edge source="spruce_planks" target="red_bed" id="551" />
+      <edge source="spruce_planks" target="cartography_table" id="552" />
+      <edge source="spruce_planks" target="blue_bed" id="553" />
+      <edge source="spruce_planks" target="beehive" id="554" />
+      <edge source="spruce_planks" target="cyan_bed" id="555" />
+      <edge source="spruce_planks" target="jukebox" id="556" />
+      <edge source="spruce_planks" target="gray_bed" id="557" />
+      <edge source="spruce_planks" target="spruce_sign" id="558" />
+      <edge source="spruce_planks" target="note_block" id="559" />
+      <edge source="spruce_planks" target="white_bed" id="560" />
+      <edge source="spruce_planks" target="wooden_sword" id="561" />
+      <edge source="spruce_planks" target="shield" id="562" />
+      <edge source="spruce_planks" target="spruce_door" id="563" />
+      <edge source="spruce_planks" target="spruce_trapdoor" id="564" />
+      <edge source="spruce_planks" target="wooden_axe" id="565" />
+      <edge source="spruce_planks" target="light_gray_bed" id="566" />
+      <edge source="spruce_planks" target="wooden_hoe" id="567" />
+      <edge source="spruce_planks" target="spruce_fence_gate" id="568" />
+      <edge source="spruce_planks" target="light_blue_bed" id="569" />
+      <edge source="spruce_planks" target="lime_bed" id="570" />
+      <edge source="melon" target="melon_slice" id="571" />
+      <edge source="melon_slice" target="glistering_melon_slice" id="572" />
+      <edge source="polished_andesite" target="andesite" id="573" />
+      <edge source="polished_andesite" target="polished_andesite_slab" id="574" />
+      <edge source="polished_andesite" target="polished_andesite_stairs" id="575" />
+      <edge source="andesite" target="polished_andesite_slab" id="576" />
+      <edge source="andesite" target="andesite_wall" id="577" />
+      <edge source="andesite" target="andesite_stairs" id="578" />
+      <edge source="andesite" target="polished_andesite_stairs" id="579" />
+      <edge source="andesite" target="andesite_slab" id="580" />
+      <edge source="light_gray_banner" target="light_gray_wool" id="581" />
+      <edge source="light_gray_wool" target="light_gray_carpet" id="582" />
+      <edge source="light_gray_wool" target="painting" id="583" />
+      <edge source="light_gray_wool" target="light_gray_bed" id="584" />
+      <edge source="acacia_fence_gate" target="acacia_planks" id="585" />
+      <edge source="acacia_planks" target="acacia_slab" id="586" />
+      <edge source="acacia_planks" target="brown_bed" id="587" />
+      <edge source="acacia_planks" target="orange_bed" id="588" />
+      <edge source="acacia_planks" target="wooden_shovel" id="589" />
+      <edge source="acacia_planks" target="magenta_bed" id="590" />
+      <edge source="acacia_planks" target="yellow_bed" id="591" />
+      <edge source="acacia_planks" target="fletching_table" id="592" />
+      <edge source="acacia_planks" target="tripwire_hook" id="593" />
+      <edge source="acacia_planks" target="acacia_door" id="594" />
+      <edge source="acacia_planks" target="piston" id="595" />
+      <edge source="acacia_planks" target="smithing_table" id="596" />
+      <edge source="acacia_planks" target="acacia_pressure_plate" id="597" />
+      <edge source="acacia_planks" target="crafting_table" id="598" />
+      <edge source="acacia_planks" target="grindstone" id="599" />
+      <edge source="acacia_planks" target="purple_bed" id="600" />
+      <edge source="acacia_planks" target="pink_bed" id="601" />
+      <edge source="acacia_planks" target="green_bed" id="602" />
+      <edge source="acacia_planks" target="loom" id="603" />
+      <edge source="acacia_planks" target="acacia_trapdoor" id="604" />
+      <edge source="acacia_planks" target="wooden_pickaxe" id="605" />
+      <edge source="acacia_planks" target="black_bed" id="606" />
+      <edge source="acacia_planks" target="acacia_boat" id="607" />
+      <edge source="acacia_planks" target="bowl" id="608" />
+      <edge source="acacia_planks" target="bookshelf" id="609" />
+      <edge source="acacia_planks" target="barrel" id="610" />
+      <edge source="acacia_planks" target="red_bed" id="611" />
+      <edge source="acacia_planks" target="cartography_table" id="612" />
+      <edge source="acacia_planks" target="blue_bed" id="613" />
+      <edge source="acacia_planks" target="beehive" id="614" />
+      <edge source="acacia_planks" target="cyan_bed" id="615" />
+      <edge source="acacia_planks" target="jukebox" id="616" />
+      <edge source="acacia_planks" target="acacia_stairs" id="617" />
+      <edge source="acacia_planks" target="acacia_sign" id="618" />
+      <edge source="acacia_planks" target="gray_bed" id="619" />
+      <edge source="acacia_planks" target="note_block" id="620" />
+      <edge source="acacia_planks" target="white_bed" id="621" />
+      <edge source="acacia_planks" target="wooden_sword" id="622" />
+      <edge source="acacia_planks" target="shield" id="623" />
+      <edge source="acacia_planks" target="wooden_axe" id="624" />
+      <edge source="acacia_planks" target="light_gray_bed" id="625" />
+      <edge source="acacia_planks" target="wooden_hoe" id="626" />
+      <edge source="acacia_planks" target="acacia_fence" id="627" />
+      <edge source="acacia_planks" target="light_blue_bed" id="628" />
+      <edge source="acacia_planks" target="lime_bed" id="629" />
+      <edge source="purpur_stairs" target="purpur_pillar" id="630" />
+      <edge source="red_sand" target="tnt" id="631" />
+      <edge source="diamond_sword" target="diamond" id="632" />
+      <edge source="diamond" target="diamond_ore" id="633" />
+      <edge source="diamond" target="diamond_helmet" id="634" />
+      <edge source="diamond" target="diamond_block" id="635" />
+      <edge source="diamond" target="diamond_shovel" id="636" />
+      <edge source="diamond" target="diamond_leggings" id="637" />
+      <edge source="diamond" target="diamond_chestplate" id="638" />
+      <edge source="diamond" target="enchanting_table" id="639" />
+      <edge source="diamond" target="diamond_axe" id="640" />
+      <edge source="diamond" target="jukebox" id="641" />
+      <edge source="diamond" target="diamond_boots" id="642" />
+      <edge source="diamond" target="diamond_pickaxe" id="643" />
+      <edge source="diamond" target="diamond_hoe" id="644" />
+      <edge source="cooked_chicken" target="chicken" id="645" />
+      <edge source="chiseled_quartz_block" target="quartz_slab" id="646" />
+      <edge source="chiseled_quartz_block" target="quartz_stairs" id="647" />
+      <edge source="acacia_slab" target="composter" id="648" />
+      <edge source="acacia_slab" target="barrel" id="649" />
+      <edge source="acacia_slab" target="daylight_detector" id="650" />
+      <edge source="acacia_slab" target="lectern" id="651" />
+      <edge source="light_gray_stained_glass_pane" target="light_gray_stained_glass" id="652" />
+      <edge source="light_gray_stained_glass_pane" target="glass_pane" id="653" />
+      <edge source="light_gray_stained_glass_pane" target="light_gray_dye" id="654" />
+      <edge source="light_gray_stained_glass" target="light_gray_dye" id="655" />
+      <edge source="green_dye" target="cactus" id="656" />
+      <edge source="green_dye" target="green_terracotta" id="657" />
+      <edge source="green_dye" target="green_carpet" id="658" />
+      <edge source="green_dye" target="green_stained_glass" id="659" />
+      <edge source="green_dye" target="green_stained_glass_pane" id="660" />
+      <edge source="brown_bed" target="brown_wool" id="661" />
+      <edge source="brown_bed" target="jungle_planks" id="662" />
+      <edge source="brown_bed" target="dark_oak_planks" id="663" />
+      <edge source="brown_bed" target="crimson_planks" id="664" />
+      <edge source="brown_wool" target="brown_carpet" id="665" />
+      <edge source="brown_wool" target="brown_banner" id="666" />
+      <edge source="brown_wool" target="painting" id="667" />
+      <edge source="jungle_planks" target="jungle_fence_gate" id="668" />
+      <edge source="jungle_planks" target="orange_bed" id="669" />
+      <edge source="jungle_planks" target="wooden_shovel" id="670" />
+      <edge source="jungle_planks" target="jungle_slab" id="671" />
+      <edge source="jungle_planks" target="magenta_bed" id="672" />
+      <edge source="jungle_planks" target="yellow_bed" id="673" />
+      <edge source="jungle_planks" target="fletching_table" id="674" />
+      <edge source="jungle_planks" target="tripwire_hook" id="675" />
+      <edge source="jungle_planks" target="piston" id="676" />
+      <edge source="jungle_planks" target="smithing_table" id="677" />
+      <edge source="jungle_planks" target="jungle_stairs" id="678" />
+      <edge source="jungle_planks" target="crafting_table" id="679" />
+      <edge source="jungle_planks" target="grindstone" id="680" />
+      <edge source="jungle_planks" target="purple_bed" id="681" />
+      <edge source="jungle_planks" target="pink_bed" id="682" />
+      <edge source="jungle_planks" target="green_bed" id="683" />
+      <edge source="jungle_planks" target="loom" id="684" />
+      <edge source="jungle_planks" target="wooden_pickaxe" id="685" />
+      <edge source="jungle_planks" target="black_bed" id="686" />
+      <edge source="jungle_planks" target="jungle_door" id="687" />
+      <edge source="jungle_planks" target="bowl" id="688" />
+      <edge source="jungle_planks" target="jungle_pressure_plate" id="689" />
+      <edge source="jungle_planks" target="bookshelf" id="690" />
+      <edge source="jungle_planks" target="barrel" id="691" />
+      <edge source="jungle_planks" target="red_bed" id="692" />
+      <edge source="jungle_planks" target="jungle_fence" id="693" />
+      <edge source="jungle_planks" target="cartography_table" id="694" />
+      <edge source="jungle_planks" target="blue_bed" id="695" />
+      <edge source="jungle_planks" target="beehive" id="696" />
+      <edge source="jungle_planks" target="cyan_bed" id="697" />
+      <edge source="jungle_planks" target="jungle_boat" id="698" />
+      <edge source="jungle_planks" target="jukebox" id="699" />
+      <edge source="jungle_planks" target="jungle_trapdoor" id="700" />
+      <edge source="jungle_planks" target="gray_bed" id="701" />
+      <edge source="jungle_planks" target="note_block" id="702" />
+      <edge source="jungle_planks" target="white_bed" id="703" />
+      <edge source="jungle_planks" target="wooden_sword" id="704" />
+      <edge source="jungle_planks" target="shield" id="705" />
+      <edge source="jungle_planks" target="wooden_axe" id="706" />
+      <edge source="jungle_planks" target="light_gray_bed" id="707" />
+      <edge source="jungle_planks" target="wooden_hoe" id="708" />
+      <edge source="jungle_planks" target="jungle_sign" id="709" />
+      <edge source="jungle_planks" target="light_blue_bed" id="710" />
+      <edge source="jungle_planks" target="lime_bed" id="711" />
+      <edge source="dark_oak_planks" target="dark_oak_slab" id="712" />
+      <edge source="dark_oak_planks" target="orange_bed" id="713" />
+      <edge source="dark_oak_planks" target="wooden_shovel" id="714" />
+      <edge source="dark_oak_planks" target="magenta_bed" id="715" />
+      <edge source="dark_oak_planks" target="yellow_bed" id="716" />
+      <edge source="dark_oak_planks" target="fletching_table" id="717" />
+      <edge source="dark_oak_planks" target="tripwire_hook" id="718" />
+      <edge source="dark_oak_planks" target="piston" id="719" />
+      <edge source="dark_oak_planks" target="smithing_table" id="720" />
+      <edge source="dark_oak_planks" target="dark_oak_door" id="721" />
+      <edge source="dark_oak_planks" target="dark_oak_boat" id="722" />
+      <edge source="dark_oak_planks" target="crafting_table" id="723" />
+      <edge source="dark_oak_planks" target="grindstone" id="724" />
+      <edge source="dark_oak_planks" target="purple_bed" id="725" />
+      <edge source="dark_oak_planks" target="pink_bed" id="726" />
+      <edge source="dark_oak_planks" target="green_bed" id="727" />
+      <edge source="dark_oak_planks" target="loom" id="728" />
+      <edge source="dark_oak_planks" target="wooden_pickaxe" id="729" />
+      <edge source="dark_oak_planks" target="black_bed" id="730" />
+      <edge source="dark_oak_planks" target="bowl" id="731" />
+      <edge source="dark_oak_planks" target="dark_oak_trapdoor" id="732" />
+      <edge source="dark_oak_planks" target="dark_oak_pressure_plate" id="733" />
+      <edge source="dark_oak_planks" target="bookshelf" id="734" />
+      <edge source="dark_oak_planks" target="barrel" id="735" />
+      <edge source="dark_oak_planks" target="dark_oak_sign" id="736" />
+      <edge source="dark_oak_planks" target="red_bed" id="737" />
+      <edge source="dark_oak_planks" target="cartography_table" id="738" />
+      <edge source="dark_oak_planks" target="blue_bed" id="739" />
+      <edge source="dark_oak_planks" target="beehive" id="740" />
+      <edge source="dark_oak_planks" target="cyan_bed" id="741" />
+      <edge source="dark_oak_planks" target="jukebox" id="742" />
+      <edge source="dark_oak_planks" target="dark_oak_fence_gate" id="743" />
+      <edge source="dark_oak_planks" target="gray_bed" id="744" />
+      <edge source="dark_oak_planks" target="note_block" id="745" />
+      <edge source="dark_oak_planks" target="white_bed" id="746" />
+      <edge source="dark_oak_planks" target="dark_oak_fence" id="747" />
+      <edge source="dark_oak_planks" target="wooden_sword" id="748" />
+      <edge source="dark_oak_planks" target="dark_oak_stairs" id="749" />
+      <edge source="dark_oak_planks" target="shield" id="750" />
+      <edge source="dark_oak_planks" target="wooden_axe" id="751" />
+      <edge source="dark_oak_planks" target="light_gray_bed" id="752" />
+      <edge source="dark_oak_planks" target="wooden_hoe" id="753" />
+      <edge source="dark_oak_planks" target="light_blue_bed" id="754" />
+      <edge source="dark_oak_planks" target="lime_bed" id="755" />
+      <edge source="crimson_planks" target="orange_bed" id="756" />
+      <edge source="crimson_planks" target="wooden_shovel" id="757" />
+      <edge source="crimson_planks" target="crimson_fence_gate" id="758" />
+      <edge source="crimson_planks" target="magenta_bed" id="759" />
+      <edge source="crimson_planks" target="yellow_bed" id="760" />
+      <edge source="crimson_planks" target="fletching_table" id="761" />
+      <edge source="crimson_planks" target="tripwire_hook" id="762" />
+      <edge source="crimson_planks" target="crimson_sign" id="763" />
+      <edge source="crimson_planks" target="piston" id="764" />
+      <edge source="crimson_planks" target="smithing_table" id="765" />
+      <edge source="crimson_planks" target="crimson_slab" id="766" />
+      <edge source="crimson_planks" target="crafting_table" id="767" />
+      <edge source="crimson_planks" target="grindstone" id="768" />
+      <edge source="crimson_planks" target="crimson_trapdoor" id="769" />
+      <edge source="crimson_planks" target="purple_bed" id="770" />
+      <edge source="crimson_planks" target="pink_bed" id="771" />
+      <edge source="crimson_planks" target="green_bed" id="772" />
+      <edge source="crimson_planks" target="crimson_door" id="773" />
+      <edge source="crimson_planks" target="loom" id="774" />
+      <edge source="crimson_planks" target="wooden_pickaxe" id="775" />
+      <edge source="crimson_planks" target="black_bed" id="776" />
+      <edge source="crimson_planks" target="bowl" id="777" />
+      <edge source="crimson_planks" target="bookshelf" id="778" />
+      <edge source="crimson_planks" target="barrel" id="779" />
+      <edge source="crimson_planks" target="red_bed" id="780" />
+      <edge source="crimson_planks" target="cartography_table" id="781" />
+      <edge source="crimson_planks" target="blue_bed" id="782" />
+      <edge source="crimson_planks" target="beehive" id="783" />
+      <edge source="crimson_planks" target="cyan_bed" id="784" />
+      <edge source="crimson_planks" target="jukebox" id="785" />
+      <edge source="crimson_planks" target="gray_bed" id="786" />
+      <edge source="crimson_planks" target="note_block" id="787" />
+      <edge source="crimson_planks" target="white_bed" id="788" />
+      <edge source="crimson_planks" target="wooden_sword" id="789" />
+      <edge source="crimson_planks" target="crimson_fence" id="790" />
+      <edge source="crimson_planks" target="crimson_pressure_plate" id="791" />
+      <edge source="crimson_planks" target="shield" id="792" />
+      <edge source="crimson_planks" target="wooden_axe" id="793" />
+      <edge source="crimson_planks" target="light_gray_bed" id="794" />
+      <edge source="crimson_planks" target="wooden_hoe" id="795" />
+      <edge source="crimson_planks" target="crimson_stairs" id="796" />
+      <edge source="crimson_planks" target="light_blue_bed" id="797" />
+      <edge source="crimson_planks" target="lime_bed" id="798" />
+      <edge source="cooked_beef" target="beef" id="799" />
+      <edge source="green_terracotta" target="green_glazed_terracotta" id="800" />
+      <edge source="golden_shovel" target="gold_nugget" id="801" />
+      <edge source="dark_prismarine_slab" target="dark_prismarine" id="802" />
+      <edge source="dark_prismarine" target="prismarine_shard" id="803" />
+      <edge source="dark_prismarine" target="dark_prismarine_stairs" id="804" />
+      <edge source="smooth_red_sandstone_stairs" target="smooth_red_sandstone" id="805" />
+      <edge source="smooth_red_sandstone" target="smooth_red_sandstone_slab" id="806" />
+      <edge source="brewing_stand" target="blaze_rod" id="807" />
+      <edge source="blaze_rod" target="end_rod" id="808" />
+      <edge source="map" target="paper" id="809" />
+      <edge source="map" target="compass" id="810" />
+      <edge source="paper" target="sugar_cane" id="811" />
+      <edge source="paper" target="cartography_table" id="812" />
+      <edge source="glistering_melon_slice" target="gold_nugget" id="813" />
+      <edge source="gold_nugget" target="golden_axe" id="814" />
+      <edge source="gold_nugget" target="golden_hoe" id="815" />
+      <edge source="gold_nugget" target="golden_sword" id="816" />
+      <edge source="gold_nugget" target="golden_helmet" id="817" />
+      <edge source="gold_nugget" target="golden_leggings" id="818" />
+      <edge source="gold_nugget" target="golden_boots" id="819" />
+      <edge source="gold_nugget" target="golden_horse_armor" id="820" />
+      <edge source="gold_nugget" target="golden_carrot" id="821" />
+      <edge source="cooked_rabbit" target="rabbit" id="822" />
+      <edge source="quartz" target="nether_quartz_ore" id="823" />
+      <edge source="quartz" target="diorite" id="824" />
+      <edge source="quartz" target="comparator" id="825" />
+      <edge source="quartz" target="daylight_detector" id="826" />
+      <edge source="quartz" target="observer" id="827" />
+      <edge source="iron_block" target="anvil" id="828" />
+      <edge source="red_nether_brick_slab" target="red_nether_bricks" id="829" />
+      <edge source="red_nether_bricks" target="nether_wart" id="830" />
+      <edge source="red_nether_bricks" target="nether_brick" id="831" />
+      <edge source="red_nether_bricks" target="red_nether_brick_stairs" id="832" />
+      <edge source="red_nether_bricks" target="red_nether_brick_wall" id="833" />
+      <edge source="yellow_carpet" target="yellow_dye" id="834" />
+      <edge source="yellow_carpet" target="yellow_wool" id="835" />
+      <edge source="yellow_dye" target="yellow_stained_glass_pane" id="836" />
+      <edge source="yellow_dye" target="yellow_stained_glass" id="837" />
+      <edge source="yellow_dye" target="yellow_terracotta" id="838" />
+      <edge source="cut_sandstone" target="cut_sandstone_slab" id="839" />
+      <edge source="cut_sandstone" target="sandstone_stairs" id="840" />
+      <edge source="magenta_glazed_terracotta" target="magenta_terracotta" id="841" />
+      <edge source="red_banner" target="red_wool" id="842" />
+      <edge source="red_wool" target="red_carpet" id="843" />
+      <edge source="red_wool" target="red_bed" id="844" />
+      <edge source="red_wool" target="painting" id="845" />
+      <edge source="prismarine_wall" target="prismarine" id="846" />
+      <edge source="prismarine" target="prismarine_shard" id="847" />
+      <edge source="prismarine" target="prismarine_stairs" id="848" />
+      <edge source="prismarine" target="prismarine_slab" id="849" />
+      <edge source="brick" target="clay_ball" id="850" />
+      <edge source="brick" target="bricks" id="851" />
+      <edge source="brick" target="flower_pot" id="852" />
+      <edge source="clay_ball" target="clay" id="853" />
+      <edge source="brick_wall" target="bricks" id="854" />
+      <edge source="bricks" target="brick_stairs" id="855" />
+      <edge source="bricks" target="brick_slab" id="856" />
+      <edge source="purple_carpet" target="purple_wool" id="857" />
+      <edge source="purple_carpet" target="purple_dye" id="858" />
+      <edge source="purple_wool" target="purple_banner" id="859" />
+      <edge source="purple_wool" target="purple_bed" id="860" />
+      <edge source="purple_wool" target="painting" id="861" />
+      <edge source="glass_pane" target="gray_stained_glass_pane" id="862" />
+      <edge source="glass_pane" target="light_blue_stained_glass_pane" id="863" />
+      <edge source="glass_pane" target="black_stained_glass_pane" id="864" />
+      <edge source="glass_pane" target="red_stained_glass_pane" id="865" />
+      <edge source="glass_pane" target="yellow_stained_glass_pane" id="866" />
+      <edge source="glass_pane" target="cyan_stained_glass_pane" id="867" />
+      <edge source="glass_pane" target="pink_stained_glass_pane" id="868" />
+      <edge source="glass_pane" target="magenta_stained_glass_pane" id="869" />
+      <edge source="glass_pane" target="brown_stained_glass_pane" id="870" />
+      <edge source="glass_pane" target="blue_stained_glass_pane" id="871" />
+      <edge source="glass_pane" target="purple_stained_glass_pane" id="872" />
+      <edge source="glass_pane" target="lime_stained_glass_pane" id="873" />
+      <edge source="glass_pane" target="orange_stained_glass_pane" id="874" />
+      <edge source="glass_pane" target="white_stained_glass_pane" id="875" />
+      <edge source="glass_pane" target="green_stained_glass_pane" id="876" />
+      <edge source="popped_chorus_fruit" target="chorus_fruit" id="877" />
+      <edge source="popped_chorus_fruit" target="end_rod" id="878" />
+      <edge source="black_stained_glass" target="black_stained_glass_pane" id="879" />
+      <edge source="respawn_anchor" target="crying_obsidian" id="880" />
+      <edge source="leather_horse_armor" target="leather" id="881" />
+      <edge source="leather" target="rabbit_hide" id="882" />
+      <edge source="leather" target="leather_boots" id="883" />
+      <edge source="leather" target="item_frame" id="884" />
+      <edge source="leather" target="leather_chestplate" id="885" />
+      <edge source="leather" target="leather_helmet" id="886" />
+      <edge source="leather" target="leather_leggings" id="887" />
+      <edge source="activator_rail" target="redstone_torch" id="888" />
+      <edge source="redstone_torch" target="comparator" id="889" />
+      <edge source="redstone_torch" target="repeater" id="890" />
+      <edge source="polished_blackstone_bricks" target="polished_blackstone_brick_stairs" id="891" />
+      <edge source="polished_blackstone_bricks" target="polished_blackstone_brick_slab" id="892" />
+      <edge source="polished_blackstone_bricks" target="cracked_polished_blackstone_bricks" id="893" />
+      <edge source="polished_blackstone_bricks" target="polished_blackstone_brick_wall" id="894" />
+      <edge source="mossy_stone_brick_slab" target="mossy_stone_bricks" id="895" />
+      <edge source="mossy_stone_bricks" target="mossy_stone_brick_stairs" id="896" />
+      <edge source="mossy_stone_bricks" target="mossy_stone_brick_wall" id="897" />
+      <edge source="quartz_stairs" target="quartz_pillar" id="898" />
+      <edge source="gray_stained_glass_pane" target="gray_dye" id="899" />
+      <edge source="gray_stained_glass_pane" target="gray_stained_glass" id="900" />
+      <edge source="gray_dye" target="gray_terracotta" id="901" />
+      <edge source="gray_dye" target="gray_stained_glass" id="902" />
+      <edge source="gray_dye" target="gray_carpet" id="903" />
+      <edge source="granite_wall" target="granite" id="904" />
+      <edge source="granite" target="polished_granite_slab" id="905" />
+      <edge source="granite" target="polished_granite" id="906" />
+      <edge source="granite" target="polished_granite_stairs" id="907" />
+      <edge source="granite" target="granite_stairs" id="908" />
+      <edge source="granite" target="granite_slab" id="909" />
+      <edge source="dark_oak_slab" target="composter" id="910" />
+      <edge source="dark_oak_slab" target="barrel" id="911" />
+      <edge source="dark_oak_slab" target="daylight_detector" id="912" />
+      <edge source="dark_oak_slab" target="lectern" id="913" />
+      <edge source="cyan_carpet" target="cyan_wool" id="914" />
+      <edge source="cyan_carpet" target="cyan_dye" id="915" />
+      <edge source="cyan_wool" target="cyan_banner" id="916" />
+      <edge source="cyan_wool" target="cyan_bed" id="917" />
+      <edge source="cyan_wool" target="painting" id="918" />
+      <edge source="polished_granite_slab" target="polished_granite" id="919" />
+      <edge source="polished_granite" target="polished_granite_stairs" id="920" />
+      <edge source="yellow_banner" target="yellow_wool" id="921" />
+      <edge source="yellow_wool" target="yellow_bed" id="922" />
+      <edge source="yellow_wool" target="painting" id="923" />
+      <edge source="chiseled_polished_blackstone" target="polished_blackstone_slab" id="924" />
+      <edge source="cyan_terracotta" target="cyan_dye" id="925" />
+      <edge source="cyan_terracotta" target="cyan_glazed_terracotta" id="926" />
+      <edge source="cyan_dye" target="cyan_stained_glass_pane" id="927" />
+      <edge source="cyan_dye" target="cyan_stained_glass" id="928" />
+      <edge source="diorite_stairs" target="diorite" id="929" />
+      <edge source="diorite" target="polished_diorite_slab" id="930" />
+      <edge source="diorite" target="diorite_slab" id="931" />
+      <edge source="diorite" target="diorite_wall" id="932" />
+      <edge source="lime_carpet" target="lime_dye" id="933" />
+      <edge source="lime_carpet" target="lime_wool" id="934" />
+      <edge source="lime_dye" target="sea_pickle" id="935" />
+      <edge source="lime_dye" target="lime_stained_glass" id="936" />
+      <edge source="lime_dye" target="lime_terracotta" id="937" />
+      <edge source="lime_dye" target="lime_stained_glass_pane" id="938" />
+      <edge source="sandstone_stairs" target="chiseled_sandstone" id="939" />
+      <edge source="chiseled_sandstone" target="sandstone_slab" id="940" />
+      <edge source="mossy_cobblestone_wall" target="mossy_cobblestone" id="941" />
+      <edge source="mossy_cobblestone" target="mossy_cobblestone_slab" id="942" />
+      <edge source="mossy_cobblestone" target="mossy_cobblestone_stairs" id="943" />
+      <edge source="gray_glazed_terracotta" target="gray_terracotta" id="944" />
+      <edge source="light_gray_carpet" target="light_gray_dye" id="945" />
+      <edge source="light_gray_dye" target="light_gray_terracotta" id="946" />
+      <edge source="light_blue_stained_glass_pane" target="light_blue_stained_glass" id="947" />
+      <edge source="light_blue_stained_glass_pane" target="light_blue_dye" id="948" />
+      <edge source="light_blue_stained_glass" target="light_blue_dye" id="949" />
+      <edge source="nether_wart" target="nether_wart_block" id="950" />
+      <edge source="nether_brick" target="netherrack" id="951" />
+      <edge source="nether_brick" target="nether_bricks" id="952" />
+      <edge source="nether_brick" target="nether_brick_fence" id="953" />
+      <edge source="cooked_porkchop" target="porkchop" id="954" />
+      <edge source="stripped_dark_oak_wood" target="stripped_dark_oak_log" id="955" />
+      <edge source="light_blue_banner" target="light_blue_wool" id="956" />
+      <edge source="light_blue_wool" target="light_blue_carpet" id="957" />
+      <edge source="light_blue_wool" target="painting" id="958" />
+      <edge source="light_blue_wool" target="light_blue_bed" id="959" />
+      <edge source="soul_lantern" target="soul_torch" id="960" />
+      <edge source="soul_torch" target="coal" id="961" />
+      <edge source="soul_torch" target="charcoal" id="962" />
+      <edge source="soul_torch" target="soul_sand" id="963" />
+      <edge source="soul_torch" target="soul_soil" id="964" />
+      <edge source="end_crystal" target="ghast_tear" id="965" />
+      <edge source="end_crystal" target="ender_eye" id="966" />
+      <edge source="ender_eye" target="ender_chest" id="967" />
+      <edge source="jungle_slab" target="composter" id="968" />
+      <edge source="jungle_slab" target="barrel" id="969" />
+      <edge source="jungle_slab" target="daylight_detector" id="970" />
+      <edge source="jungle_slab" target="lectern" id="971" />
+      <edge source="dried_kelp" target="kelp" id="972" />
+      <edge source="blue_terracotta" target="blue_dye" id="973" />
+      <edge source="blue_terracotta" target="blue_glazed_terracotta" id="974" />
+      <edge source="blue_dye" target="blue_stained_glass" id="975" />
+      <edge source="blue_dye" target="blue_stained_glass_pane" id="976" />
+      <edge source="blue_dye" target="blue_carpet" id="977" />
+      <edge source="red_stained_glass_pane" target="red_dye" id="978" />
+      <edge source="red_stained_glass_pane" target="red_stained_glass" id="979" />
+      <edge source="red_dye" target="red_stained_glass" id="980" />
+      <edge source="red_dye" target="red_carpet" id="981" />
+      <edge source="red_dye" target="red_terracotta" id="982" />
+      <edge source="magenta_bed" target="magenta_wool" id="983" />
+      <edge source="magenta_wool" target="magenta_banner" id="984" />
+      <edge source="magenta_wool" target="painting" id="985" />
+      <edge source="lime_stained_glass" target="lime_stained_glass_pane" id="986" />
+      <edge source="bamboo" target="scaffolding" id="987" />
+      <edge source="spectral_arrow" target="arrow" id="988" />
+      <edge source="arrow" target="flint" id="989" />
+      <edge source="arrow" target="feather" id="990" />
+      <edge source="white_terracotta" target="white_dye" id="991" />
+      <edge source="white_terracotta" target="white_glazed_terracotta" id="992" />
+      <edge source="white_dye" target="white_stained_glass_pane" id="993" />
+      <edge source="white_dye" target="white_stained_glass" id="994" />
+      <edge source="snow_block" target="snowball" id="995" />
+      <edge source="snow_block" target="snow" id="996" />
+      <edge source="end_stone_brick_slab" target="end_stone" id="997" />
+      <edge source="end_stone_brick_slab" target="end_stone_bricks" id="998" />
+      <edge source="end_stone" target="end_stone_bricks" id="999" />
+      <edge source="end_stone" target="end_stone_brick_stairs" id="1000" />
+      <edge source="end_stone" target="end_stone_brick_wall" id="1001" />
+      <edge source="yellow_stained_glass_pane" target="yellow_stained_glass" id="1002" />
+      <edge source="torch" target="coal" id="1003" />
+      <edge source="torch" target="charcoal" id="1004" />
+      <edge source="torch" target="jack_o_lantern" id="1005" />
+      <edge source="torch" target="lantern" id="1006" />
+      <edge source="coal" target="coal_ore" id="1007" />
+      <edge source="coal" target="campfire" id="1008" />
+      <edge source="coal" target="coal_block" id="1009" />
+      <edge source="charcoal" target="logs_that_burn" id="1010" />
+      <edge source="charcoal" target="campfire" id="1011" />
+      <edge source="cyan_stained_glass_pane" target="cyan_stained_glass" id="1012" />
+      <edge source="fletching_table" target="flint" id="1013" />
+      <edge source="acacia_wood" target="acacia_log" id="1014" />
+      <edge source="white_wool" target="string" id="1015" />
+      <edge source="white_wool" target="white_bed" id="1016" />
+      <edge source="white_wool" target="painting" id="1017" />
+      <edge source="white_wool" target="white_banner" id="1018" />
+      <edge source="stripped_acacia_wood" target="stripped_acacia_log" id="1019" />
+      <edge source="cooked_mutton" target="mutton" id="1020" />
+      <edge source="nether_brick_stairs" target="nether_bricks" id="1021" />
+      <edge source="nether_bricks" target="nether_brick_slab" id="1022" />
+      <edge source="nether_bricks" target="nether_brick_wall" id="1023" />
+      <edge source="nether_bricks" target="chiseled_nether_bricks" id="1024" />
+      <edge source="nether_bricks" target="cracked_nether_bricks" id="1025" />
+      <edge source="nether_bricks" target="nether_brick_fence" id="1026" />
+      <edge source="stripped_oak_wood" target="stripped_oak_log" id="1027" />
+      <edge source="brown_carpet" target="brown_dye" id="1028" />
+      <edge source="brown_dye" target="brown_stained_glass_pane" id="1029" />
+      <edge source="brown_dye" target="brown_stained_glass" id="1030" />
+      <edge source="brown_dye" target="brown_terracotta" id="1031" />
+      <edge source="lime_wool" target="lime_banner" id="1032" />
+      <edge source="lime_wool" target="painting" id="1033" />
+      <edge source="lime_wool" target="lime_bed" id="1034" />
+      <edge source="cooked_salmon" target="salmon" id="1035" />
+      <edge source="crossbow" target="string" id="1036" />
+      <edge source="crossbow" target="tripwire_hook" id="1037" />
+      <edge source="string" target="fishing_rod" id="1038" />
+      <edge source="string" target="scaffolding" id="1039" />
+      <edge source="string" target="loom" id="1040" />
+      <edge source="string" target="lead" id="1041" />
+      <edge source="string" target="bow" id="1042" />
+      <edge source="dark_oak_wood" target="dark_oak_log" id="1043" />
+      <edge source="netherite_scrap" target="ancient_debris" id="1044" />
+      <edge source="blue_ice" target="packed_ice" id="1045" />
+      <edge source="purple_dye" target="purple_stained_glass_pane" id="1046" />
+      <edge source="purple_dye" target="purple_stained_glass" id="1047" />
+      <edge source="purple_dye" target="purple_terracotta" id="1048" />
+      <edge source="fishing_rod" target="carrot_on_a_stick" id="1049" />
+      <edge source="fishing_rod" target="warped_fungus_on_a_stick" id="1050" />
+      <edge source="hopper_minecart" target="hopper" id="1051" />
+      <edge source="warped_slab" target="composter" id="1052" />
+      <edge source="warped_slab" target="barrel" id="1053" />
+      <edge source="warped_slab" target="daylight_detector" id="1054" />
+      <edge source="warped_slab" target="lectern" id="1055" />
+      <edge source="blue_stained_glass" target="blue_stained_glass_pane" id="1056" />
+      <edge source="green_carpet" target="green_wool" id="1057" />
+      <edge source="piston" target="sticky_piston" id="1058" />
+      <edge source="lime_glazed_terracotta" target="lime_terracotta" id="1059" />
+      <edge source="prismarine_brick_slab" target="prismarine_bricks" id="1060" />
+      <edge source="prismarine_bricks" target="prismarine_shard" id="1061" />
+      <edge source="prismarine_bricks" target="prismarine_brick_stairs" id="1062" />
+      <edge source="baked_potato" target="potato" id="1063" />
+      <edge source="light_gray_terracotta" target="light_gray_glazed_terracotta" id="1064" />
+      <edge source="end_stone_bricks" target="end_stone_brick_stairs" id="1065" />
+      <edge source="end_stone_bricks" target="end_stone_brick_wall" id="1066" />
+      <edge source="pink_banner" target="pink_wool" id="1067" />
+      <edge source="pink_wool" target="pink_bed" id="1068" />
+      <edge source="pink_wool" target="pink_carpet" id="1069" />
+      <edge source="pink_wool" target="painting" id="1070" />
+      <edge source="spruce_slab" target="composter" id="1071" />
+      <edge source="spruce_slab" target="barrel" id="1072" />
+      <edge source="spruce_slab" target="daylight_detector" id="1073" />
+      <edge source="spruce_slab" target="lectern" id="1074" />
+      <edge source="oak_slab" target="composter" id="1075" />
+      <edge source="oak_slab" target="barrel" id="1076" />
+      <edge source="oak_slab" target="daylight_detector" id="1077" />
+      <edge source="oak_slab" target="lectern" id="1078" />
+      <edge source="chiseled_stone_bricks" target="stone_brick_slab" id="1079" />
+      <edge source="chiseled_stone_bricks" target="lodestone" id="1080" />
+      <edge source="nether_brick_slab" target="chiseled_nether_bricks" id="1081" />
+      <edge source="magenta_stained_glass_pane" target="magenta_stained_glass" id="1082" />
+      <edge source="composter" target="birch_slab" id="1083" />
+      <edge source="composter" target="crimson_slab" id="1084" />
+      <edge source="birch_slab" target="barrel" id="1085" />
+      <edge source="birch_slab" target="daylight_detector" id="1086" />
+      <edge source="birch_slab" target="lectern" id="1087" />
+      <edge source="crimson_slab" target="barrel" id="1088" />
+      <edge source="crimson_slab" target="daylight_detector" id="1089" />
+      <edge source="crimson_slab" target="lectern" id="1090" />
+      <edge source="brown_stained_glass_pane" target="brown_stained_glass" id="1091" />
+      <edge source="turtle_helmet" target="scute" id="1092" />
+      <edge source="prismarine_shard" target="sea_lantern" id="1093" />
+      <edge source="stripped_crimson_hyphae" target="stripped_crimson_stem" id="1094" />
+      <edge source="smooth_quartz_stairs" target="smooth_quartz" id="1095" />
+      <edge source="smooth_quartz" target="smooth_quartz_slab" id="1096" />
+      <edge source="purple_stained_glass_pane" target="purple_stained_glass" id="1097" />
+      <edge source="warped_hyphae" target="warped_stem" id="1098" />
+      <edge source="black_carpet" target="black_wool" id="1099" />
+      <edge source="orange_stained_glass" target="orange_dye" id="1100" />
+      <edge source="orange_stained_glass" target="orange_stained_glass_pane" id="1101" />
+      <edge source="orange_dye" target="orange_terracotta" id="1102" />
+      <edge source="orange_dye" target="orange_stained_glass_pane" id="1103" />
+      <edge source="jack_o_lantern" target="carved_pumpkin" id="1104" />
+      <edge source="spruce_wood" target="spruce_log" id="1105" />
+      <edge source="smoker" target=":logs_that_burn" id="1106" />
+      <edge source="smoker" target=":crimson_stems" id="1107" />
+      <edge source="smoker" target=":warped_stems" id="1108" />
+      <edge source=":logs_that_burn" target="soul_campfire" id="1109" />
+      <edge source=":logs_that_burn" target="campfire" id="1110" />
+      <edge source=":crimson_stems" target="soul_campfire" id="1111" />
+      <edge source=":crimson_stems" target="campfire" id="1112" />
+      <edge source=":warped_stems" target="soul_campfire" id="1113" />
+      <edge source=":warped_stems" target="campfire" id="1114" />
+      <edge source="green_bed" target="green_wool" id="1115" />
+      <edge source="green_wool" target="green_banner" id="1116" />
+      <edge source="green_wool" target="painting" id="1117" />
+      <edge source="quartz_slab" target="quartz_pillar" id="1118" />
+      <edge source="purple_terracotta" target="purple_glazed_terracotta" id="1119" />
+      <edge source="emerald" target="emerald_ore" id="1120" />
+      <edge source="emerald" target="emerald_block" id="1121" />
+      <edge source="netherite_block" target="netherite_ingot" id="1122" />
+      <edge source="netherite_ingot" target="lodestone" id="1123" />
+      <edge source="enchanting_table" target="book" id="1124" />
+      <edge source="book" target="bookshelf" id="1125" />
+      <edge source="sea_lantern" target="prismarine_crystals" id="1126" />
+      <edge source="blue_carpet" target="blue_wool" id="1127" />
+      <edge source="blue_wool" target="blue_banner" id="1128" />
+      <edge source="blue_wool" target="blue_bed" id="1129" />
+      <edge source="blue_wool" target="painting" id="1130" />
+      <edge source="magma_block" target="magma_cream" id="1131" />
+      <edge source="birch_wood" target="birch_log" id="1132" />
+      <edge source="light_blue_carpet" target="light_blue_dye" id="1133" />
+      <edge source="light_blue_dye" target="light_blue_terracotta" id="1134" />
+      <edge source="cut_red_sandstone_slab" target="cut_red_sandstone" id="1135" />
+      <edge source="black_bed" target="black_wool" id="1136" />
+      <edge source="black_wool" target="black_banner" id="1137" />
+      <edge source="black_wool" target="painting" id="1138" />
+      <edge source="jungle_wood" target="jungle_log" id="1139" />
+      <edge source="orange_terracotta" target="orange_glazed_terracotta" id="1140" />
+      <edge source="polished_basalt" target="basalt" id="1141" />
+      <edge source="yellow_glazed_terracotta" target="yellow_terracotta" id="1142" />
+      <edge source="stone_pressure_plate" target="detector_rail" id="1143" />
+      <edge source="honey_block" target="honey_bottle" id="1144" />
+      <edge source="white_stained_glass_pane" target="white_stained_glass" id="1145" />
+      <edge source="light_blue_terracotta" target="light_blue_glazed_terracotta" id="1146" />
+      <edge source="bookshelf" target="lectern" id="1147" />
+      <edge source="cookie" target="wheat" id="1148" />
+      <edge source="cookie" target="cocoa_beans" id="1149" />
+      <edge source="wheat" target="hay_block" id="1150" />
+      <edge source="wheat" target="cake" id="1151" />
+      <edge source="wheat" target="bread" id="1152" />
+      <edge source="honeycomb_block" target="honeycomb" id="1153" />
+      <edge source="honeycomb" target="beehive" id="1154" />
+      <edge source="sticky_piston" target="slime_ball" id="1155" />
+      <edge source="slime_ball" target="lead" id="1156" />
+      <edge source="slime_ball" target="slime_block" id="1157" />
+      <edge source="green_stained_glass" target="green_stained_glass_pane" id="1158" />
+      <edge source="brown_terracotta" target="brown_glazed_terracotta" id="1159" />
+      <edge source="conduit" target="nautilus_shell" id="1160" />
+      <edge source="conduit" target="heart_of_the_sea" id="1161" />
+      <edge source="soul_campfire" target="soul_sand" id="1162" />
+      <edge source="soul_campfire" target="soul_soil" id="1163" />
+      <edge source="target" target="hay_block" id="1164" />
+      <edge source="coarse_dirt" target="dirt" id="1165" />
+      <edge source="coarse_dirt" target="gravel" id="1166" />
+      <edge source="carrot_on_a_stick" target="carrot" id="1167" />
+      <edge source="carrot" target="golden_carrot" id="1168" />
+      <edge source="red_terracotta" target="red_glazed_terracotta" id="1169" />
+      <edge source="gray_carpet" target="gray_wool" id="1170" />
+      <edge source="tnt" target="gunpowder" id="1171" />
+      <edge source="tnt" target="tnt_minecart" id="1172" />
+      <edge source="stripped_birch_wood" target="stripped_birch_log" id="1173" />
+      <edge source="gray_bed" target="gray_wool" id="1174" />
+      <edge source="gray_wool" target="painting" id="1175" />
+      <edge source="gray_wool" target="gray_banner" id="1176" />
+      <edge source="golden_apple" target="apple" id="1177" />
+      <edge source="bow" target="dispenser" id="1178" />
+      <edge source="stripped_spruce_wood" target="stripped_spruce_log" id="1179" />
+      <edge source="crimson_hyphae" target="crimson_stem" id="1180" />
+      <edge source="cake" target="milk_bucket" id="1181" />
+      <edge source="cake" target="sugar" id="1182" />
+      <edge source="cake" target="egg" id="1183" />
+      <edge source="bone_block" target="bone_meal" id="1184" />
+      <edge source="warped_fungus_on_a_stick" target="warped_fungus" id="1185" />
+    </edges>
+  </graph>
+</gexf>

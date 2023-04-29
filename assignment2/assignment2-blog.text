@@ -7,31 +7,52 @@ how you might find such a node in the graph.
 
 Identify a non-obvious insight you want to extract from your data, describing what 
 decision(s) this insight might inform.
+- Shows the most important/useful items in the game
+- Shows relationships between specific items
 
 Describe the source of your network data. Where did it come from, and how did you 
 collect it?
+- Found it on GitHub, in this repository: https://github.com/JayHales/Minecraft-Crafting-Web
+- Pulled the json files from the 'recipes' and 'tags' folders.
 
 Define what nodes and edges in your network represent and how you built 
 this graph from your data.
+- Nodes are items in minecraft
+- Edges are a direct connection between crafting items
+    - If an item is used to craft another item, those two items are connected
 
 Define "importance" in your graph and identify a set of at least three important nodes.
+- Stick is the most important
+- Nodes that are isolated are not involved in many recipes. Example: Salmon -> Cooked Salmon
+- Each type of wood shares a lot of the same connections, but they each have their own
+'wood' variants-- Oak Door, Oak Planks, which makes them all have different neighbors
 
 Describe any software you used to facilitate your network analysis 
 (e.g., NetworkX, NodeXL, or similar).
+NetworkX, Gephi
 
 Describe how you cleaned up this data, common bugs you think others might 
 encounter, and how you fixed them, etc.
+Originally, was doing web-scraping, but noticed a flaw in the website I was using.
+http://minecraftsavant.weebly.com/crafting-recipes.html
+
+This website has incredibly weird HTML that made parsing situational and tedious.
+Eventually, decided the work to pull the data wasn't worth it and stumbled on
+the Minecraft items database on GitHub.
+
+Another problem is that with the current data, the JSON files are not completely 
+standardized-- a lot of them have different values for the same keys or are 
+missing keys. Had to work out logic to handle that.
 
 Include figures or tables summarizing your findings.
 
 Conclude with a discussion of the limitations of your analysis. 
 What’s missing? How might it be biased?
+Limitations could be 
 
 Include a link to your GitHub repository where you have code for this analysis.
+https://github.com/foshesss/INST414_Assignments/tree/master/assignment2
 
 
-https://spclient.wg.spotify.com/user-profile-view/v3/profile/{username}/followers?market=from_token
 
-{
-    profiles:
-}
+

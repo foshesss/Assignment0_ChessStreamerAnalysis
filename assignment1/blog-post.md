@@ -1,5 +1,3 @@
-*The song that I played as I wrote this blog is ‘Evergreen’, by Richy Mitch & The Coal Miners. It’s not particularly my favorite, but I recently started watching Vinland Saga and for some reason, it reminds me of that.*
-
 ## Introduction
 This blog is an exploratory analysis of recognized chess streamers on chess.com. Using the analysis conducted in this blog, an upcoming chess streamer might be able to align themself or set a personal goal to reach a specific rating.
 
