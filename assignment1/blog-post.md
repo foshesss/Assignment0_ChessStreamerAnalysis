@@ -1,10 +1,10 @@
 ## Introduction
-This blog is an exploratory analysis of recognized chess streamers on chess.com. Using the analysis conducted in this blog, an upcoming chess streamer that would like to be recognized by chess.com might be able to align themself to reach a specific rating.
+This blog is an exploratory analysis of recognized chess streamers on chess.com. Using the analysis conducted in this blog, an upcoming chess streamer that would like to be recognized by chess.com might be able to align themself to reach a specific rating. This could increase their chances of being recognized on chess.com.
 
-This project is interesting to me because I got into chess due to streamers on Twitch. Before conducting this research, I had no idea how many chess.com-recognized streamers there were and I also had no idea what the average rating of those streamers was.
+This project is interesting to me because I got into chess because of streamers on Twitch. Before conducting this research, I had no idea how many chess.com-recognized streamers there were and I also had no idea what the average rating of those streamers was.
 
 ## Let's collect our data
-Chess.com makes pulling streamer usernames incredibly easy-- there is an endpoint just for it, "/streamers". Using the Python 'requests' library, we can retrieve that information like this:
+Obviously, in order to analyze the data, we're going to need to collect data about chess streamers. Chess.com makes pulling streamer usernames incredibly easy-- there is an endpoint just for it, "/streamers". Using the Python 'requests' library, we can retrieve that information like this:
 
 ```py
 import requests
@@ -26,7 +26,7 @@ response = requests.get("https://api.chess.com/pub/streamers").json()
 }
 ```
 
-However, there is a problem. This data does not include anything about a streamer's current chess rating. To tackle this, we are going to have to pull each individual streamer's chess rating. Because we have every username of every streamer, we can use the "/pub/player/{username}/stats" endpoint to pull each streamer's chess rating.
+However, there is a problem with this response. This data does not include anything about a streamer's current chess stats. To tackle this, we are going to have to pull each streamer's chess rating with their username and the "/pub/player/{username}/stats" endpoint.
 
 ```py
 rows = []
@@ -52,10 +52,10 @@ for streamer in response["streamers"]:
 streamer_df = pd.DataFrame(rows)
 ```
 
-After pulling each streamer's rating, we create a dataframe with them, where columns are "username", "chess_rapid", "chess_bullet", and "chess_blitz". One problem that I ran into was that some streamers had never played some types of chess games. If that happened, that value was skipped for that streamer.
+After pulling this information, we create a dataframe with it, where columns are "username", "chess_rapid", "chess_bullet", and "chess_blitz". One problem that I ran into was that some streamers had never played some types of chess games. If that happened, that value was skipped for that streamer.
 
 ## Visualizing the data
-
+Visualizing the data was simple with the Python 'matplotlib' lirary,
 
 
 ## How is this data useful?
