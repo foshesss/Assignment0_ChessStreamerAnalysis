@@ -1,0 +1,11 @@
+Output for goosebumps:
+1, No Features (feat. Kodak Black), 0.15240020372358054
+2, Pussy Got Ya Hooked (feat. Remy Ma) - Explicit Album Version, 0.15766168686645196
+3, Changes, 0.1939842427978082
+4, Too Good, 0.19631704953236875
+5, DiscoveryChannel, 0.1974621898314156
+6, DiscoveryChannel, 0.1974621898314156
+7, My Way (feat. Monty), 0.19973682386574895
+8, Millions, 0.20425366425536806
+9, Eye'm, 0.20613487418387935
+10, ball w/o you, 0.2122151851077028
